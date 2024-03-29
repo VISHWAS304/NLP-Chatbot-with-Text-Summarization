@@ -5,5 +5,9 @@ Create an folder named chatbot (any name you like) then navigate to that folder 
 ```bash
 conda create --name chatbot python
 
-conda create --name myenv python=3.8   (can specify the python version if required)
+conda create --name chatbot python=3.8   (can specify the python version if required)
+```
+Activate the environment
+```bash
+conda activate chatbot
 ```
