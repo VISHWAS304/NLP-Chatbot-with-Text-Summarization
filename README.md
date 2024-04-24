@@ -13,8 +13,7 @@ conda activate chatbot
 ```
 
 To Run the File while developing
-```bash
-1.
+1.Run below command to start FastAPI
 ```bash
 uvicorn main:app --reload
 ```
