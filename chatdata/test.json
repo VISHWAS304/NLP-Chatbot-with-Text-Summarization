@@ -1,0 +1,132 @@
+[
+    {
+        "id": "88",
+        "dialogue": "Customer: The Pav Bhaji was bursting with flavor, absolutely delicious!\nBot Response: We're delighted you enjoyed our Pav Bhaji! Your satisfaction is our priority.",
+        "summary": "Customer loved the bursting flavor of Pav Bhaji."
+    },
+    {
+        "id": "89",
+        "dialogue": "Customer: Chole Bhature is my favorite comfort food, and this one didn't disappoint!\nBot Response: We're thrilled you loved our Chole Bhature! Your positive feedback motivates us.",
+        "summary": "Customer's favorite comfort food, Chole Bhature, didn't disappoint."
+    },
+    {
+    "id": "90",
+    "dialogue": "Customer: The Pizza was perfectly cheesy and had a nice crispy crust.\nBot Response: We're pleased you enjoyed our Pizza! Your satisfaction is our priority.",
+    "summary": "Customer enjoyed the perfectly cheesy Pizza with a crispy crust."
+    },
+    {
+    "id": "91",
+    "dialogue": "Customer: Mango Lassi was refreshing and had just the right balance of sweetness.\nBot Response: We're glad you enjoyed our Mango Lassi! Your satisfaction motivates us.",
+    "summary": "Customer found Mango Lassi refreshing with the right balance of sweetness."
+    },
+    {
+    "id": "92",
+    "dialogue": "Customer: The Masala Dosa had a nice crispy texture and flavorful filling.\nBot Response: We're pleased you enjoyed our Masala Dosa! Your satisfaction is our priority.",
+    "summary": "Customer enjoyed the crispy texture and flavorful filling of Masala Dosa."
+    },
+    {
+    "id": "93",
+    "dialogue": "Customer: The Biryani was aromatic and had tender pieces of meat.\nBot Response: We're delighted you enjoyed our Biryani! Your satisfaction motivates us.",
+    "summary": "Customer found the Biryani aromatic with tender meat pieces."
+    },
+    {
+    "id": "94",
+    "dialogue": "Customer: Vada Pav took me back to the streets of Mumbai, loved every bite!\nBot Response: We're thrilled you loved our Vada Pav! Your positive feedback is appreciated.",
+    "summary": "Customer loved every bite of Vada Pav, reminiscent of Mumbai streets."
+    },
+    {
+    "id": "95",
+    "dialogue": "Customer: Rava Dosa was crispy and had a delightful texture.\nBot Response: We're pleased you enjoyed our Rava Dosa! Your satisfaction is our priority.",
+    "summary": "Customer found Rava Dosa crispy with a delightful texture."
+    },
+    {
+    "id": "96",
+    "dialogue": "Customer: Samosa had a tasty filling and a crispy, golden crust.\nBot Response: We're glad you enjoyed our Samosa! Your positive feedback motivates us.",
+    "summary": "Customer enjoyed the tasty filling and crispy crust of Samosa."
+    },
+    {
+    "id": "97",
+    "dialogue": "Customer: The Pav Bhaji was a bit too spicy for my taste, but still enjoyable.\nBot Response: We're sorry if the Pav Bhaji was too spicy for you. Your feedback will help us improve. Thank you.",
+    "summary": "Customer found Pav Bhaji a bit too spicy but still enjoyable."
+    },
+    {
+    "id": "98",
+    "dialogue": "Customer: Chole Bhature lacked a bit of flavor, but overall it was decent.\nBot Response: We apologize if the Chole Bhature lacked flavor. Your feedback will help us ensure better taste. Thank you.",
+    "summary": "Customer found Chole Bhature decent but lacking some flavor."
+    },
+    {
+    "id": "99",
+    "dialogue": "Customer: The Pizza toppings were a bit sparse, could use more ingredients.\nBot Response: We apologize if the Pizza toppings were not as expected. Your feedback will help us improve. Thank you.",
+    "summary": "Customer found Pizza toppings sparse, suggesting more ingredients."
+    },
+    {
+    "id": "100",
+    "dialogue": "Customer: Mango Lassi was a bit too sweet for me, but still refreshing.\nBot Response: We apologize if the Mango Lassi was too sweet for your taste. Your feedback is valuable, and we'll strive for better balance. Thank you.",
+    "summary": "Customer found Mango Lassi a bit too sweet but still refreshing."
+    },
+    {
+    "id": "101",
+    "dialogue": "Customer: The Masala Dosa was a bit oily, but the flavors were good.\nBot Response: We apologize if the Masala Dosa was too oily. Your feedback will help us improve. Thank you.",
+    "summary": "Customer found Masala Dosa a bit oily but with good flavors."
+    },
+    {
+    "id": "102",
+    "dialogue": "Customer: The Biryani was a bit dry, could use more moisture.\nBot Response: We apologize if the Biryani was too dry. Your feedback will help us ensure better moisture. Thank you.",
+    "summary": "Customer found Biryani a bit dry, suggesting more moisture."
+    },
+    {
+    "id": "103",
+    "dialogue": "Customer: Vada Pav was good, but the pav was a bit soggy.\nBot Response: We apologize if the pav in the Vada Pav was soggy. Your feedback will help us ensure better texture. Thank you.",
+    "summary": "Customer found Vada Pav good but with a slightly soggy pav."
+    },
+    {
+    "id": "104",
+    "dialogue": "Customer: Rava Dosa was too thick and lacked the traditional crispiness.\nBot Response: We apologize if the Rava Dosa was not as crispy as expected. Your feedback is valuable, and we'll strive for better texture. Thank you.",
+    "summary": "Customer found Rava Dosa too thick and lacking traditional crispiness."
+    },
+    {
+    "id": "105",
+    "dialogue": "Customer: The Samosa filling was bland and lacked seasoning.\nBot Response: We apologize if the Samosa filling was bland. Your feedback will help us ensure better seasoning. Thank you.",
+    "summary": "Customer found Samosa filling bland, suggesting more seasoning."
+    },
+    {
+    "id": "106",
+    "dialogue": "Customer: Pav Bhaji was too salty for my liking, couldn't finish it.\nBot Response: We apologize if the Pav Bhaji was too salty. Your feedback will help us ensure better seasoning. Thank you.",
+    "summary": "Customer found Pav Bhaji too salty to finish."
+    },  
+    {
+    "id": "107",
+    "dialogue": "Customer: Chole Bhature was disappointing, the bhature were hard and not fluffy.\nBot Response: We apologize if the Chole Bhature did not meet your expectations. Your feedback will help us ensure better quality. Thank you.",
+    "summary": "Customer found Chole Bhature disappointing with hard, non-fluffy bhature."
+    },
+    {
+    "id": "108",
+    "dialogue": "Customer: The Pav Bhaji was a steal for the portion size and taste!\nBot Response: We're thrilled you found our Pav Bhaji to be a steal! Your satisfaction is our priority.",
+    "summary": "Customer found Pav Bhaji to be a steal for its portion size and taste."
+    },
+    {
+    "id": "109",
+    "dialogue": "Customer: Chole Bhature was reasonably priced for the quantity you get.\nBot Response: We're pleased you found our Chole Bhature to be reasonably priced! Your positive feedback motivates us.",
+    "summary": "Customer found Chole Bhature reasonably priced for its quantity."
+    },
+    {
+    "id": "110",
+    "dialogue": "Customer: Pizza was a bit expensive, but understandable given the toppings.\nBot Response: We appreciate your understanding regarding the price of our Pizza. Your satisfaction is our priority.",
+    "summary": "Customer found Pizza a bit expensive but understandable due to toppings."
+    },
+    {
+    "id": "111",
+    "dialogue": "Customer: Mango Lassi was overpriced considering it's a simple drink.\nBot Response: We apologize if you found our Mango Lassi to be overpriced. Your feedback will help us ensure fair pricing. Thank you.",
+    "summary": "Customer found Mango Lassi overpriced for a simple drink."
+    },
+    {
+    "id": "112",
+    "dialogue": "Customer: Masala Dosa was worth every penny, considering the quality.\nBot Response: We're delighted you found our Masala Dosa worth it! Your satisfaction motivates us.",
+    "summary": "Customer found Masala Dosa worth every penny for its quality."
+    },
+    {
+    "id": "113",
+    "dialogue": "Customer: Biryani was a bit pricey, but the taste made up for it.\nBot Response: We're pleased you enjoyed our Biryani despite the price. Your positive feedback is appreciated.",
+    "summary": "Customer found Biryani a bit pricey but enjoyed it for its taste."
+    }
+]

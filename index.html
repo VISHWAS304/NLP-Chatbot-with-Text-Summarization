@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GETFOOD</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1>GETFOOD</h1>
+            <p>Delicious meals at your fingertips!</p>
+        </div>
+        <img src="logo.png" alt="GETFOOD Logo" style="width: 100px; height: auto;">
+    </header>
+    <div class="container">
+        <div class="item">
+            <img src="banner.jpg" alt="Banner">
+            <h2>Home</h2>
+            <p>Welcome to GETFOOD</p>
+            <p>Got questions? Contact us at +91791234567</p>
+        </div>
+
+        <div class="item menu-container">
+            <img src="images/menu1.jpg" alt="Menu item 1">
+            <img src="images/menu2.jpg" alt="Menu item 2">
+            <img src="images/menu3.jpg" alt="Menu item 3">
+            <h2>Menu</h2>
+            <p>Check out our delicious menu</p>
+        </div>
+
+        <div class="item">
+            <img src="images/reviews.jpg" alt="Reviews">
+            <h2>Reviews</h2>
+            <p>See what our customers have to say</p>
+        </div>
+
+        <div class="item">
+            <img src="images/location.jpg" alt="Location">
+            <h2>Location</h2>
+            <p>Yeshiva university, 215 Lexington avenue, New York</p>
+        </div>
+
+        <div class="item">
+            <img src="images/specials.jpg" alt="Specials">
+            <h2>Specials</h2>
+            <p>Discover our daily specials</p>
+        </div>
+
+        <div class="restaurant-section" onclick="alert('User interactions and chat summaries will be displayed here!');">
+            <h2>Restaurant Section</h2>
+            <p>View user interactions and chat details.</p>
+        </div>
+    </div>
+    <div class="chatbot-container">
+        <button id="toggle-chatbot">Chatbot</button>
+        <img id="minimized-chatbot-image" src="images/chatbot.png" alt="Chat">
+    </div>
+
+    <iframe id="chatbot-frame" class="chat-bot" width="350" height="430" allow="microphone;" src="https://console.dialogflow.com/api-client/demo/embedded/7f5caf6b-980f-4a35-8c59-a1b68d6ed27a"></iframe>
+
+    <script src="js/scripts.js"></script>
+</body>
+</html>

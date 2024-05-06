@@ -1,0 +1,45 @@
+id,dialogue,summary
+1,"Customer: 54
+Bot Response: The order status for order id: 54 is: in progress",Customer ordered the food and its order number is 54
+2,"Customer: Samosa for $5 seems a bit expensive
+Bot Response: We're sorry to hear that review regarding Samosa priced at $5.00 from you. Your feedback is important to us. Please contact us so we can address this issue promptly.",Price of the samosa was little bit expensive for the customer
+3,"Customer: The Biryani is fairly priced and delicious.
+Bot Response: Thank you for your feedback. We'll take your comments into consideration to improve our services.",Customer was very happy with the price and taste of biriyani
+4,"Customer: Chole Bhature is worth the money.
+Bot Response: Thank you for your wonderful feedback! We're thrilled you enjoyed the Chole Bhature priced at $7.00. Your satisfaction means the world to us.",Customer was satisfied with the price of chole bature
+5,"Customer: mango lassi price is high
+Bot Response: We're sorry to hear that review regarding Mango Lassi priced at $5.00 from you. Your feedback is important to us. Please contact us so we can address this issue promptly.",Mango lassi price is very high 
+6,"Customer: masala dosa price is very less so its good and tasty
+Bot Response: Thank you for your wonderful feedback! We're thrilled you enjoyed the Masala Dosa priced at $6.00. Your satisfaction means the world to us.",Customer was very happy with the price and taste of masala dosa
+7,"Customer: I received my order earlier than expected. Very efficient delivery!
+Bot Response: Thank you for your feedback regarding the delivery. We're glad to hear it was satisfactory. If you have any suggestions for improvement, we're here to listen.",Customer was very much satisfied with the delivery
+8,"Customer: The delivery was smooth and hassle-free. Thank you for the excellent service!
+Bot Response: We're delighted to hear that you had a positive experience with the delivery! Your satisfaction is our top priority. Thank you for your feedback!",Customer was very much satisfied with the delivery
+9,"Customer: I had issues with the delivery tracking. It wasn't accurate.
+Bot Response: We apologize for any inconvenience caused by the delivery. Your feedback is valuable to us. Please contact us so we can address this issue promptly.",Customer has issue with the delivery tracking
+10,"Customer: delivery was late
+Bot Response: We apologize for any inconvenience caused by the delivery. Your feedback is valuable to us. Please contact us so we can address this issue promptly.",customer faced late delivery
+11,"Customer: delivery person was rude
+Bot Response: We apologize for any inconvenience caused by the delivery. Your feedback is valuable to us. Please contact us so we can address this issue promptly.",customer found delivery guy was rude
+12,"Customer: delivery person was polite
+Bot Response: We apologize for any inconvenience caused by the delivery. Your feedback is valuable to us. Please contact us so we can address this issue promptly.",customer found delivery guy was polite
+13,"Customer: delivery package was horrible
+Bot Response: We apologize for any inconvenience caused by the delivery. Your feedback is valuable to us. Please contact us so we can address this issue promptly.",customer faced issues with the food packaging
+14,"Customer: delivery was good
+Bot Response: Thank you for your feedback regarding the delivery. We're glad to hear it was satisfactory. If you have any suggestions for improvement, we're here to listen.",customer was satisfied with delivery
+15,"Customer: The food arrived on time, but the packaging could be improved.
+Bot Response: We're delighted to hear that you had a positive experience with the delivery! Your satisfaction is our top priority. Thank you for your feedback!",food arrived on time to customer and packaging should be improved
+16,"Customer: The delivery was average. It arrived within the estimated time.
+Bot Response: We apologize for any inconvenience caused by the delivery. Your feedback is valuable to us. Please contact us so we can address this issue promptly.",customer is ok with the delivery and delivery arrived on time
+17,"Customer: I had issues with the delivery tracking. It wasn't accurate.
+Bot Response: We apologize for any inconvenience caused by the delivery. Your feedback is valuable to us. Please contact us so we can address this issue promptly.",Customer has issue with the delivery tracking and accuracy
+18,"Customer: The delivery was as expected, no complaints but nothing exceptional either.
+Bot Response: We apologize for any inconvenience caused by the delivery. Your feedback is valuable to us. Please contact us so we can address this issue promptly.",customer was satisfied with the delivery and need improvement
+19,"Customer: The delivery was late, and the food was cold when it arrived.
+Bot Response: We apologize for any inconvenience caused by the delivery. Your feedback is valuable to us. Please contact us so we can address this issue promptly.",customer was not satisfied with delivery guy service and cold food
+20,"Customer: The delivery driver was friendly and professional. Great service!
+Bot Response: We're delighted to hear that you had a positive experience with the delivery! Your satisfaction is our top priority. Thank you for your feedback!",customer was satisfied with delivery guy service
+21,"Customer: The delivery driver was rude and unprofessional.
+Bot Response: We apologize for any inconvenience caused by the delivery. Your feedback is valuable to us. Please contact us so we can address this issue promptly.",customer found delivery guy was rude
+22,"Customer: The delivery was neither exceptional nor disappointing.
+Bot Response: We apologize for any inconvenience caused by the delivery. Your feedback is valuable to us. Please contact us so we can address this issue promptly.",customer was ok with the delivery

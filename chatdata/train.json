@@ -1,0 +1,1458 @@
+[
+  {
+    "id": "13818544",
+    "dialogue": "Customer: The Pav Bhaji was bursting with flavor, absolutely delicious!\nBot Response: We're delighted you enjoyed our Pav Bhaji! Your satisfaction is our priority.",
+    "summary": "Customer loved the bursting flavor of Pav Bhaji."
+    },
+    {
+    "id": "13818545",
+    "dialogue": "Customer: Chole Bhature is my favorite comfort food, and this one didn't disappoint!\nBot Response: We're thrilled you loved our Chole Bhature! Your positive feedback motivates us.",
+    "summary": "Customer's favorite comfort food, Chole Bhature, didn't disappoint."
+    },
+    {
+    "id": "13818546",
+    "dialogue": "Customer: The Pizza was perfectly cheesy and had a nice crispy crust.\nBot Response: We're pleased you enjoyed our Pizza! Your satisfaction is our priority.",
+    "summary": "Customer enjoyed the perfectly cheesy Pizza with a crispy crust."
+    },
+    {
+    "id": "13818547",
+    "dialogue": "Customer: Mango Lassi was refreshing and had just the right balance of sweetness.\nBot Response: We're glad you enjoyed our Mango Lassi! Your satisfaction motivates us.",
+    "summary": "Customer found Mango Lassi refreshing with the right balance of sweetness."
+    },
+    {
+    "id": "13818548",
+    "dialogue": "Customer: Crispy Masala Dosa delights with its flavorful filling.\nBot Response: We're thrilled you enjoyed our Masala Dosa! Your positive feedback motivates us.",
+    "summary": "Customer delighted in the crispy Masala Dosa with flavorful filling."
+    },
+    {
+    "id": "13818549",
+    "dialogue": "Customer: Aromatic Biryani features tender, flavorful meat.\nBot Response: We're pleased you enjoyed our Biryani! Your satisfaction is our priority.",
+    "summary": "Customer appreciated the aromatic Biryani with tender, flavorful meat."
+    },
+    {
+    "id": "13818550",
+    "dialogue": "Customer: Vada Pav brings the essence of Mumbai streets to every bite!\nBot Response: We're thrilled you loved our Vada Pav! Your positive feedback motivates us.",
+    "summary": "Customer felt the essence of Mumbai streets in every bite of Vada Pav."
+    },
+    {
+    "id": "13818551",
+    "dialogue": "Customer: Rava Dosa offers a delightful, crispy texture.\nBot Response: We're delighted you enjoyed our Rava Dosa! Your satisfaction motivates us.",
+    "summary": "Customer found Rava Dosa delightful with a crispy texture."
+    },
+    {
+    "id": "13818552",
+    "dialogue": "Customer: Samosa tempts with its tasty filling and golden crust.\nBot Response: We're pleased you enjoyed our Samosa! Your satisfaction is our priority.",
+    "summary": "Customer found the Samosa tempting with its tasty filling and golden crust."
+    },
+    {
+    "id": "13818553",
+    "dialogue": "Customer: While the Pav Bhaji is a tad spicy, it's still enjoyable.\nBot Response: We're glad you found our Pav Bhaji enjoyable! Your feedback helps us improve.",
+    "summary": "Customer found the Pav Bhaji enjoyable despite it being a tad spicy."
+    },
+    {
+    "id": "13818554",
+    "dialogue": "Customer: Chole Bhature lacks a bit of flavor but remains decent.\nBot Response: We appreciate your feedback. We'll work on enhancing the flavor of our Chole Bhature.",
+    "summary": "Customer feels that Chole Bhature lacks a bit of flavor but remains decent."
+    },
+    {
+    "id": "13818555",
+    "dialogue": "Customer: Pizza toppings feel sparse; could use more ingredients.\nBot Response: Thank you for your feedback. We'll review our pizza toppings to ensure customer satisfaction.",
+    "summary": "Customer thinks the Pizza toppings feel sparse and could use more ingredients."
+    },
+    {
+    "id": "13818556",
+    "dialogue": "Customer: Mango Lassi, a tad sweet, still offers a refreshing sip.\nBot Response: We're pleased you found our Mango Lassi refreshing! Your satisfaction motivates us.",
+    "summary": "Customer found Mango Lassi a tad sweet but still refreshing."
+    },
+    {
+    "id": "13818557",
+    "dialogue": "Customer: The Masala Dosa is slightly oily, but flavorsome.\nBot Response: We're glad you enjoyed our Masala Dosa! We'll work on adjusting the oiliness for a better experience.",
+    "summary": "Customer found the Masala Dosa slightly oily but flavorsome."
+    },
+    {
+    "id": "13818558",
+    "dialogue": "Customer: Biryani's a bit dry; could do with more moisture.\nBot Response: We appreciate your feedback. We'll work on ensuring our Biryani is moist for a better experience.",
+    "summary": "Customer feels that Biryani's a bit dry and could do with more moisture."
+    },
+    {
+    "id": "13818559",
+    "dialogue": "Customer: Vada Pav's good, though the pav tends to be soggy.\nBot Response: Thank you for your feedback. We'll work on improving the texture of our pav for a better experience.",
+    "summary": "Customer thinks Vada Pav is good but the pav tends to be soggy."
+    },
+    {
+    "id": "13818560",
+    "dialogue": "Customer: Rava Dosa is too thick; lacks the traditional crisp.\nBot Response: We appreciate your feedback. We'll work on ensuring our Rava Dosa has the traditional crispiness.",
+    "summary": "Customer feels that Rava Dosa is too thick and lacks the traditional crispiness."
+    },
+    {
+    "id": "13818561",
+    "dialogue": "Customer: Samosa's filling lacks seasoning; could use more flavor.\nBot Response: We appreciate your feedback. We'll work on enhancing the flavor of our Samosa filling.",
+    "summary": "Customer thinks Samosa's filling lacks seasoning and could use more flavor."
+    },
+    {
+    "id": "13818562",
+    "dialogue": "Customer: Pav Bhaji's overly salty, making it hard to finish.\nBot Response: We apologize for the oversalted Pav Bhaji. Your feedback will help us ensure better seasoning in the future.",
+    "summary": "Customer found Pav Bhaji overly salty, making it hard to finish."
+    },
+    {
+    "id": "13818563",
+    "dialogue": "Customer: Chole Bhature disappoints; bhature turn out hard.\nBot Response: We apologize for the hard bhature. Your feedback will help us ensure better quality in the future.",
+    "summary": "Customer was disappointed as the Chole Bhature had hard bhature."
+    },
+    {
+    "id": "13818564",
+    "dialogue": "Customer: Pizza's reasonably priced for its quality and taste.\nBot Response: We're pleased to hear that you find our Pizza reasonably priced! Customer satisfaction is our top priority.",
+    "summary": "Customer believes Pizza is reasonably priced for its quality and taste."
+    },
+    {
+    "id": "13818565",
+    "dialogue": "Customer: Mango Lassi's cost is justified by its refreshing flavor.\nBot Response: We're glad you find the cost of our Mango Lassi justified! Customer satisfaction motivates us.",
+    "summary": "Customer thinks the cost of Mango Lassi is justified by its refreshing flavor."
+    },
+    {
+    "id": "13818566",
+    "dialogue": "Customer: Masala Dosa's worth every penny with its quality.\nBot Response: We're thrilled you find our Masala Dosa worth every penny! Customer satisfaction is our top priority.",
+    "summary": "Customer believes Masala Dosa is worth every penny with its quality."
+    },
+    {
+    "id": "13818567",
+    "dialogue": "Customer: Biryani's slightly pricey but compensates in taste.\nBot Response: We're pleased you find our Biryani's taste compensates for the price! Customer satisfaction motivates us.",
+    "summary": "Customer thinks Biryani's slightly pricey but compensates in taste."
+    },
+    {
+    "id": "13818568",
+    "dialogue": "Customer: Vada Pav offers great value for its budget-friendly price.\nBot Response: We're thrilled you find our Vada Pav offers great value! Customer satisfaction motivates us.",
+    "summary": "Customer believes Vada Pav offers great value for its budget-friendly price."
+    },
+    {
+    "id": "13818569",
+    "dialogue": "Customer: Rava Dosa's price seems higher compared to others.\nBot Response: We appreciate your feedback. We'll review our pricing for Rava Dosa to ensure customer satisfaction.",
+    "summary": "Customer thinks Rava Dosa's price seems higher compared to others."
+    },
+    {
+    "id": "13818570",
+    "dialogue": "Customer: Samosa seems a bit pricey for a single piece.\nBot Response: Thank you for your feedback. We'll review our pricing for Samosa to ensure customer satisfaction.",
+    "summary": "Customer thinks Samosa seems a bit pricey for a single piece."
+    },
+    {
+    "id": "13818571",
+    "dialogue": "Customer: Pav Bhaji's worth the price, considering its taste and size.\nBot Response: We're pleased you find our Pav Bhaji worth the price! Customer satisfaction is our top priority.",
+    "summary": "Customer believes Pav Bhaji's worth the price, considering its taste and size."
+    },
+    {
+    "id": "13818572",
+    "dialogue": "Customer: Chole Bhature feels pricey for a street food staple.\nBot Response: We appreciate your feedback. We'll review our pricing for Chole Bhature to ensure customer satisfaction.",
+    "summary": "Customer thinks Chole Bhature feels pricey for a street food staple."
+    },
+    {
+    "id": "13818573",
+    "dialogue": "Customer: Pizza's decently priced for its quality and taste.\nBot Response: We're pleased to hear that you find our Pizza decently priced! Customer satisfaction is our top priority.",
+    "summary": "Customer believes Pizza's decently priced for its quality and taste."
+    },
+    {
+    "id": "13818574",
+    "dialogue": "Customer: Mango Lassi's price seems steep for just a yogurt drink.\nBot Response: We appreciate your feedback. We'll review our pricing for Mango Lassi to ensure customer satisfaction.",
+    "summary": "Customer thinks Mango Lassi's price seems steep for just a yogurt drink."
+    },
+    {
+    "id": "13818575",
+    "dialogue": "Customer: Masala Dosa's on the pricier side for a common dish.\nBot Response: We're sorry to hear that you find our Masala Dosa on the pricier side. Your feedback helps us improve our pricing.",
+    "summary": "Customer thinks Masala Dosa's on the pricier side for a common dish."
+    },
+    {
+    "id": "13818576",
+    "dialogue": "Customer: Biryani's price seems fair, but I've had better.\nBot Response: We appreciate your feedback. We'll work on enhancing the quality of our Biryani for a better experience.",
+    "summary": "Customer thinks Biryani's price seems fair, but has had better."
+    },
+    {
+    "id": "13818577",
+    "dialogue": "Customer: Vada Pav's cheap, but the quality matches the price.\nBot Response: We appreciate your feedback. We'll work on enhancing the quality of our Vada Pav for a better experience.",
+    "summary": "Customer thinks Vada Pav's cheap, but the quality matches the price."
+    },
+    {
+    "id": "13818578",
+    "dialogue": "Customer: Rava Dosa's a bit pricier than expected for South Indian fare.\nBot Response: We appreciate your feedback. We'll review our pricing for Rava Dosa to ensure customer satisfaction.",
+    "summary": "Customer thinks Rava Dosa's a bit pricier than expected for South Indian fare."
+    },
+    {
+    "id": "13818579",
+    "dialogue": "Customer: Samosa seems a bit pricey for a single piece.\nBot Response: Thank you for your feedback. We'll review our pricing for Samosa to ensure customer satisfaction.",
+    "summary": "Customer thinks Samosa seems a bit pricey for a single piece."
+    },
+    {
+    "id": "13818580",
+    "dialogue": "Customer: Pav Bhaji's worth the price, considering its taste and size.\nBot Response: We're pleased you find our Pav Bhaji worth the price! Customer satisfaction is our top priority.",
+    "summary": "Customer believes Pav Bhaji's worth the price, considering its taste and size."
+    },
+    {
+    "id": "13818581",
+    "dialogue": "Customer: Chole Bhature feels pricey for a street food staple.\nBot Response: We appreciate your feedback. We'll review our pricing for Chole Bhature to ensure customer satisfaction.",
+    "summary": "Customer thinks Chole Bhature feels pricey for a street food staple."
+    },
+    {
+    "id": "13818582",
+    "dialogue": "Customer: Pizza's decently priced for its quality and taste.\nBot Response: We're pleased to hear that you find our Pizza decently priced! Customer satisfaction is our top priority.",
+    "summary": "Customer believes Pizza's decently priced for its quality and taste."
+    },
+    {
+    "id": "13818583",
+    "dialogue": "Customer: Mango Lassi's price seems steep for just a yogurt drink.\nBot Response: We appreciate your feedback. We'll review our pricing for Mango Lassi to ensure customer satisfaction.",
+    "summary": "Customer thinks Mango Lassi's price seems steep for just a yogurt drink."
+    },
+    {
+    "id": "13818584",
+    "dialogue": "Customer: Masala Dosa's on the pricier side for a common dish.\nBot Response: We're sorry to hear that you find our Masala Dosa on the pricier side. Your feedback helps us improve our pricing.",
+    "summary": "Customer thinks Masala Dosa's on the pricier side for a common dish."
+    },
+    {
+    "id": "13818585",
+    "dialogue": "Customer: Biryani's price seems fair, but I've had better.\nBot Response: We appreciate your feedback. We'll work on enhancing the quality of our Biryani for a better experience.",
+    "summary": "Customer thinks Biryani's price seems fair, but has had better."
+    },
+    {
+    "id": "13818586",
+    "dialogue": "Customer: Vada Pav's cheap, but the quality matches the price.\nBot Response: We appreciate your feedback. We'll work on enhancing the quality of our Vada Pav for a better experience.",
+    "summary": "Customer thinks Vada Pav's cheap, but the quality matches the price."
+    },
+    {
+    "id": "13818587",
+    "dialogue": "Customer: Rava Dosa's a bit pricier than expected for South Indian fare.\nBot Response: We appreciate your feedback. We'll review our pricing for Rava Dosa to ensure customer satisfaction.",
+    "summary": "Customer thinks Rava Dosa's a bit pricier than expected for South Indian fare."
+    },
+    {
+    "id": "13818588",
+    "dialogue": "Customer: Samosa seems a bit pricey for a single piece.\nBot Response: Thank you for your feedback. We'll review our pricing for Samosa to ensure customer satisfaction.",
+    "summary": "Customer thinks Samosa seems a bit pricey for a single piece."
+    },
+    {
+    "id": "13818589",
+    "dialogue": "Customer: Pav Bhaji's worth the price, considering its taste and size.\nBot Response: We're pleased you find our Pav Bhaji worth the price! Customer satisfaction is our top priority.",
+    "summary": "Customer believes Pav Bhaji's worth the price, considering its taste and size."
+    },
+    {
+    "id": "13818590",
+    "dialogue": "Customer: Chole Bhature feels pricey for a street food staple.\nBot Response: We appreciate your feedback. We'll review our pricing for Chole Bhature to ensure customer satisfaction.",
+    "summary": "Customer thinks Chole Bhature feels pricey for a street food staple."
+    },
+    {
+    "id": "13818591",
+    "dialogue": "Customer: Pizza's decently priced for its quality and taste.\nBot Response: We're pleased to hear that you find our Pizza decently priced! Customer satisfaction is our top priority.",
+    "summary": "Customer believes Pizza's decently priced for its quality and taste."
+    },
+    {
+    "id": "13818592",
+    "dialogue": "Customer: Mango Lassi's price seems steep for just a yogurt drink.\nBot Response: We appreciate your feedback. We'll review our pricing for Mango Lassi to ensure customer satisfaction.",
+    "summary": "Customer thinks Mango Lassi's price seems steep for just a yogurt drink."
+    },
+    {
+    "id": "13818593",
+    "dialogue": "Customer: Masala Dosa's on the pricier side for a common dish.\nBot Response: We're sorry to hear that you find our Masala Dosa on the pricier side. Your feedback helps us improve our pricing.",
+    "summary": "Customer thinks Masala Dosa's on the pricier side for a common dish."
+    },
+    {
+    "id": "13818594",
+    "dialogue": "Customer: Biryani's price seems fair, but I've had better.\nBot Response: We appreciate your feedback. We'll work on enhancing the quality of our Biryani for a better experience.",
+    "summary": "Customer thinks Biryani's price seems fair, but has had better."
+    },
+    {
+    "id": "13818595",
+    "dialogue": "Customer: Vada Pav's cheap, but the quality matches the price.\nBot Response: We appreciate your feedback. We'll work on enhancing the quality of our Vada Pav for a better experience.",
+    "summary": "Customer thinks Vada Pav's cheap, but the quality matches the price."
+    },
+    {
+    "id": "13818596",
+    "dialogue": "Customer: Rava Dosa's a bit pricier than expected for South Indian fare.\nBot Response: We appreciate your feedback. We'll review our pricing for Rava Dosa to ensure customer satisfaction.",
+    "summary": "Customer thinks Rava Dosa's a bit pricier than expected for South Indian fare."
+    },
+    {
+    "id": "13818597",
+    "dialogue": "Customer: Samosa seems a bit pricey for a single piece.\nBot Response: Thank you for your feedback. We'll review our pricing for Samosa to ensure customer satisfaction.",
+    "summary": "Customer thinks Samosa seems a bit pricey for a single piece."
+    },
+    {
+    "id": "13818598",
+    "dialogue": "Customer: Pav Bhaji's worth the price, considering its taste and size.\nBot Response: We're pleased you find our Pav Bhaji worth the price! Customer satisfaction is our top priority.",
+    "summary": "Customer believes Pav Bhaji's worth the price, considering its taste and size."
+    },
+    {
+    "id": "13818599",
+    "dialogue": "Customer: Chole Bhature feels pricey for a street food staple.\nBot Response: We appreciate your feedback. We'll review our pricing for Chole Bhature to ensure customer satisfaction.",
+    "summary": "Customer thinks Chole Bhature feels pricey for a street food staple."
+    },
+    {
+    "id": "13818600",
+    "dialogue": "Customer: Pizza's decently priced for its quality and taste.\nBot Response: We're pleased to hear that you find our Pizza decently priced! Customer satisfaction is our top priority.",
+    "summary": "Customer believes Pizza's decently priced for its quality and taste."
+    },
+    {
+    "id": "13818601",
+    "dialogue": "Customer: Mango Lassi's price seems steep for just a yogurt drink.\nBot Response: We appreciate your feedback. We'll review our pricing for Mango Lassi to ensure customer satisfaction.",
+    "summary": "Customer thinks Mango Lassi's price seems steep for just a yogurt drink."
+    },
+    {
+    "id": "13818602",
+    "dialogue": "Customer: Masala Dosa's on the pricier side for a common dish.\nBot Response: We're sorry to hear that you find our Masala Dosa on the pricier side. Your feedback helps us improve our pricing.",
+    "summary": "Customer thinks Masala Dosa's on the pricier side for a common dish."
+    },
+    {
+    "id": "13818603",
+    "dialogue": "Customer: Biryani's price seems fair, but I've had better.\nBot Response: We appreciate your feedback. We'll work on enhancing the quality of our Biryani for a better experience.",
+    "summary": "Customer thinks Biryani's price seems fair, but has had better."
+    },
+    {
+    "id": "13818604",
+    "dialogue": "Customer: Vada Pav's cheap, but the quality matches the price.\nBot Response: We appreciate your feedback. We'll work on enhancing the quality of our Vada Pav for a better experience.",
+    "summary": "Customer thinks Vada Pav's cheap, but the quality matches the price."
+    },
+    {
+    "id": "13818605",
+    "dialogue": "Customer: Rava Dosa's a bit pricier than expected for South Indian fare.\nBot Response: We appreciate your feedback. We'll review our pricing for Rava Dosa to ensure customer satisfaction.",
+    "summary": "Customer thinks Rava Dosa's a bit pricier than expected for South Indian fare."
+    },
+    {
+    "id": "13818606",
+    "dialogue": "Customer: Samosa seems a bit pricey for a single piece.\nBot Response: Thank you for your feedback. We'll review our pricing for Samosa to ensure customer satisfaction.",
+    "summary": "Customer thinks Samosa seems a bit pricey for a single piece."
+    },
+    {
+    "id": "13818607",
+    "dialogue": "Customer: Pav Bhaji's worth the price, considering its taste and size.\nBot Response: We're pleased you find our Pav Bhaji worth the price! Customer satisfaction is our top priority.",
+    "summary": "Customer believes Pav Bhaji's worth the price, considering its taste and size."
+    },
+    {
+    "id": "13818608",
+    "dialogue": "Customer: Chole Bhature feels pricey for a street food staple.\nBot Response: We appreciate your feedback. We'll review our pricing for Chole Bhature to ensure customer satisfaction.",
+    "summary": "Customer thinks Chole Bhature feels pricey for a street food staple."
+    },
+    {
+    "id": "13818609",
+    "dialogue": "Customer: Pizza's decently priced for its quality and taste.\nBot Response: We're pleased to hear that you find our Pizza decently priced! Customer satisfaction is our top priority.",
+    "summary": "Customer believes Pizza's decently priced for its quality and taste."
+    },
+    {
+    "id": "13818610",
+    "dialogue": "Customer: Mango Lassi's price seems steep for just a yogurt drink.\nBot Response: We appreciate your feedback. We'll review our pricing for Mango Lassi to ensure customer satisfaction.",
+    "summary": "Customer thinks Mango Lassi's price seems steep for just a yogurt drink."
+    },
+    {
+    "id": "13818611",
+    "dialogue": "Customer: Masala Dosa's on the pricier side for a common dish.\nBot Response: We're sorry to hear that you find our Masala Dosa on the pricier side. Your feedback helps us improve our pricing.",
+    "summary": "Customer thinks Masala Dosa's on the pricier side for a common dish."
+    },
+    {
+    "id": "13818612",
+    "dialogue": "Customer: Biryani's price seems fair, but I've had better.\nBot Response: We appreciate your feedback. We'll work on enhancing the quality of our Biryani for a better experience.",
+    "summary": "Customer thinks Biryani's price seems fair, but has had better."
+    },
+    {
+    "id": "13818613",
+    "dialogue": "Customer: Vada Pav's cheap, but the quality matches the price.\nBot Response: We appreciate your feedback. We'll work on enhancing the quality of our Vada Pav for a better experience.",
+    "summary": "Customer thinks Vada Pav's cheap, but the quality matches the price."
+    },
+  {
+    "id": "13818512",
+    "dialogue": "Customer: Pizza feels expensive for a basic cheese variant.\nBot Response: We appreciate your feedback. We'll review our pricing to ensure it aligns with customer expectations.",
+    "summary": "Customer feels that Pizza is expensive for a basic cheese variant."
+    },
+    {
+    "id": "13818514",
+    "dialogue": "Customer: Mango Lassi's price seems steep for just a yogurt drink.\nBot Response: We value your feedback. We'll review the pricing of our Mango Lassi to ensure it aligns with customer expectations.",
+    "summary": "Customer finds Mango Lassi's price steep for just a yogurt drink."
+    },
+    {
+    "id": "13818515",
+    "dialogue": "Customer: Masala Dosa's on the pricier side for a common dish.\nBot Response: Thank you for your feedback. We'll review the pricing of our Masala Dosa to ensure it aligns with customer expectations.",
+    "summary": "Customer thinks Masala Dosa is on the pricier side for a common dish."
+    },
+    {
+    "id": "13818516",
+    "dialogue": "Customer: Biryani's price seems fair, but I've had better.\nBot Response: We appreciate your feedback. We'll strive to enhance the quality of our Biryani to meet your expectations.",
+    "summary": "Customer feels that Biryani's price is fair but has had better."
+    },
+    {
+    "id": "13818517",
+    "dialogue": "Customer: Vada Pav's cheap, but the quality matches the price.\nBot Response: Thank you for your feedback. We'll work on improving the quality of our Vada Pav to ensure a better experience.",
+    "summary": "Customer thinks Vada Pav is cheap, but the quality matches the price."
+    },
+    {
+    "id": "13818518",
+    "dialogue": "Customer: Rava Dosa's a bit pricier than expected for South Indian fare.\nBot Response: We appreciate your feedback. We'll review the pricing of our Rava Dosa to ensure it aligns with customer expectations.",
+    "summary": "Customer finds Rava Dosa a bit pricier than expected for South Indian fare."
+    },
+    {
+    "id": "13818519",
+    "dialogue": "Customer: Samosa seems a bit pricey for a single piece.\nBot Response: We value your feedback. We'll review the pricing of our Samosa to ensure it aligns with customer expectations.",
+    "summary": "Customer thinks Samosa seems a bit pricey for a single piece."
+    },
+    {
+    "id": "13818520",
+    "dialogue": "Customer: Pav Bhaji's worth the price, considering its taste and size.\nBot Response: We're glad you found our Pav Bhaji worth the price! Providing value for money is important to us.",
+    "summary": "Customer feels that Pav Bhaji is worth the price considering its taste and size."
+    },
+    {
+    "id": "13818521",
+    "dialogue": "Customer: Chole Bhature feels pricey for a street food staple.\nBot Response: Thank you for your feedback. We'll review the pricing of our Chole Bhature to ensure it aligns with customer expectations.",
+    "summary": "Customer thinks Chole Bhature feels pricey for a street food staple."
+    },
+    {
+    "id": "13818522",
+    "dialogue": "Customer: Pizza's reasonably priced for its quality and taste.\nBot Response: We're pleased to hear that you find our Pizza reasonably priced! Customer satisfaction is our top priority.",
+    "summary": "Customer believes Pizza is reasonably priced for its quality and taste."
+    },
+    {
+    "id": "13818523",
+    "dialogue": "Customer: Mango Lassi's cost is justified by its refreshing flavor.\nBot Response: We're glad you appreciate the flavor of our Mango Lassi! Your satisfaction motivates us to maintain our standards.",
+    "summary": "Customer feels that Mango Lassi's cost is justified by its refreshing flavor."
+    },
+    {
+    "id": "13818524",
+    "dialogue": "Customer: Prompt delivery; food arrived hot and fresh!\nBot Response: We're delighted to hear that you had a positive delivery experience with us! Timely delivery and food quality are our top priorities.",
+    "summary": "Customer had a positive delivery experience with prompt delivery and hot, fresh food."
+    },
+    {
+    "id": "13818525",
+    "dialogue": "Customer: Chole Bhature arrived swiftly, still warm; excellent service.\nBot Response: We're thrilled to hear that you had a great service experience with us! Your satisfaction motivates us to maintain our standards.",
+    "summary": "Customer had a great service experience with prompt delivery and warm Chole Bhature."
+    },
+    {
+    "id": "13818526",
+    "dialogue": "Customer: Pizza delivery was right on time, maintaining its heat.\nBot Response: We're pleased to hear that you had a positive delivery experience with us! Timely delivery and food quality are our top priorities.",
+    "summary": "Customer had a positive delivery experience with timely delivery and pizza maintaining its heat."
+    },
+    {
+    "id": "13818527",
+    "dialogue": "Customer: Mango Lassi arrived intact, thanks to careful packaging.\nBot Response: We're glad to hear that you had a positive delivery experience with us! We strive for secure packaging to ensure food safety.",
+    "summary": "Customer had a positive delivery experience with intact Mango Lassi thanks to careful packaging."
+    },
+    {
+    "id": "13818528",
+    "dialogue": "Customer: Early arrival of Masala Dosa, still maintaining its crispiness.\nBot Response: We're pleased to hear that you had a positive delivery experience with us! Timely delivery and food quality are our top priorities.",
+    "summary": "Customer had a positive delivery experience with early delivery and Masala Dosa maintaining its crispiness."
+    },
+    {
+    "id": "13818529",
+    "dialogue": "Customer: Biryani delivery slightly delayed but remained warm.\nBot Response: We apologize for the delay in delivery. Your feedback will help us improve our service for a better experience next time.",
+    "summary": "Customer experienced a slightly delayed Biryani delivery but the food remained warm."
+    },
+    {
+    "id": "13818530",
+    "dialogue": "Customer: Vada Pav delivered quickly; pav remained soft and fresh.\nBot Response: We're pleased to hear that you had a positive delivery experience with us! We strive for timely delivery and food quality.",
+    "summary": "Customer had a positive delivery experience with quick delivery and soft, fresh pav."
+    },
+    {
+    "id": "13818531",
+    "dialogue": "Customer: Late delivery of Rava Dosa but compensated in taste.\nBot Response: We apologize for the delay in delivery. Your satisfaction is our priority, and we'll work on improving our delivery times.",
+    "summary": "Customer experienced a late delivery of Rava Dosa but felt compensated in taste."
+    },
+    {
+    "id": "13818532",
+    "dialogue": "Customer: Samosa delivery was fast; samosas remained crispy.\nBot Response: We're pleased to hear that you had a positive delivery experience with us! Timely delivery and food quality are our top priorities.",
+    "summary": "Customer had a positive delivery experience with fast delivery and crispy samosas."
+    },
+    {
+    "id": "13818533",
+    "dialogue": "Customer: On-time delivery, but Pav Bhaji was disappointingly cold.\nBot Response: We apologize for the inconvenience caused. Your feedback will help us ensure better delivery standards in the future.",
+    "summary": "Customer's delivery arrived on time but the Pav Bhaji was disappointingly cold."
+    },
+    {
+    "id": "13818534",
+    "dialogue": "Customer: Chole Bhature delivery took longer; resulted in slightly soggy bhature.\nBot Response: We apologize for the delay in delivery and the soggy bhature. Your feedback will help us improve our delivery and food quality.",
+    "summary": "Customer experienced a delay in Chole Bhature delivery, resulting in slightly soggy bhature."
+    },
+    {
+    "id": "13818535",
+    "dialogue": "Customer: Pizza delivery delayed; pizza arrived lukewarm.\nBot Response: We apologize for the delay in delivery and the lukewarm pizza. Your feedback will help us improve our delivery and food quality.",
+    "summary": "Customer experienced a delayed Pizza delivery, resulting in lukewarm pizza."
+    },
+    {
+    "id": "13818536",
+    "dialogue": "Customer: Mango Lassi spilled during transit; packaging issue to address.\nBot Response: We apologize for the spillage and poor packaging. Your feedback will help us ensure better packaging standards in the future.",
+    "summary": "Customer experienced spillage of Mango Lassi during transit, highlighting a packaging issue."
+    },
+    {
+    "id": "13818537",
+    "dialogue": "Customer: Late Masala Dosa delivery caused it to lose its crispiness.\nBot Response: We apologize for the delay in delivery and the loss of crispiness in the dosa. Your feedback will help us improve our delivery and food quality.",
+    "summary": "Customer experienced a late delivery of Masala Dosa, causing it to lose its crispiness."
+    },
+    {
+    "id": "13818538",
+    "dialogue": "Customer: Biryani delivery was delayed, resulting in slightly cold rice.\nBot Response: We apologize for the delay in delivery and the cold rice. Your feedback will help us improve our delivery and food quality.",
+    "summary": "Customer experienced a delayed Biryani delivery, resulting in slightly cold rice."
+    },
+    {
+    "id": "13818539",
+    "dialogue": "Customer: Quick Vada Pav delivery, but the pav suffered from being squished.\nBot Response: We apologize for the squished pav. Your feedback will help us ensure better packaging standards in the future.",
+    "summary": "Customer experienced quick delivery of Vada Pav but found the pav to be squished."
+    },
+    {
+    "id": "13818540",
+    "dialogue": "Customer: Rava Dosa delivery arrived late, sticking to the container.\nBot Response: We apologize for the delay in delivery and the dosa sticking to the container. Your feedback will help us improve our delivery and packaging standards.",
+    "summary": "Customer experienced a late delivery of Rava Dosa, causing it to stick to the container."
+    },
+    {
+    "id": "13818541",
+    "dialogue": "Customer: Fast Samosa delivery, but the samosas ended up crushed.\nBot Response: We apologize for the crushed samosas. Your feedback will help us ensure better packaging standards in the future.",
+    "summary": "Customer experienced fast delivery of Samosa but found the samosas to be crushed."
+    },
+    {
+    "id": "13818542",
+    "dialogue": "Customer: Prompt delivery, though the Pav Bhaji was missing a side dish.\nBot Response: We apologize for the missing side dish. Your feedback will help us ensure better order accuracy in the future.",
+    "summary": "Customer experienced prompt delivery but found the Pav Bhaji to be missing a side dish."
+    },
+    {
+    "id": "13818543",
+    "dialogue": "Customer: Delayed Chole Bhature delivery resulted in slightly dried-out chole.\nBot Response: We apologize for the delay in delivery and the dried-out chole. Your feedback will help us improve our delivery and food quality.",
+    "summary": "Customer experienced a delayed Chole Bhature delivery, resulting in slightly dried-out chole."
+    },
+  {
+    "id": "13818513",
+    "summary": "Amanda baked cookies and will bring Jerry some tomorrow.",
+    "dialogue": "Amanda: I baked  cookies. Do you want some?\r\nJerry: Sure!\r\nAmanda: I'll bring you tomorrow :-)"
+  },
+  {
+    "id": "13728867",
+    "summary": "Olivia and Olivier are voting for liberals in this election. ",
+    "dialogue": "Olivia: Who are you voting for in this election? \r\nOliver: Liberals as always.\r\nOlivia: Me too!!\r\nOliver: Great"
+  },
+  {
+    "id": "13681000",
+    "summary": "Kim may try the pomodoro technique recommended by Tim to get more stuff done.",
+    "dialogue": "Tim: Hi, what's up?\r\nKim: Bad mood tbh, I was going to do lots of stuff but ended up procrastinating\r\nTim: What did you plan on doing?\r\nKim: Oh you know, uni stuff and unfucking my room\r\nKim: Maybe tomorrow I'll move my ass and do everything\r\nKim: We were going to defrost a fridge so instead of shopping I'll eat some defrosted veggies\r\nTim: For doing stuff I recommend Pomodoro technique where u use breaks for doing chores\r\nTim: It really helps\r\nKim: thanks, maybe I'll do that\r\nTim: I also like using post-its in kaban style"
+  },
+  {
+    "id": "13730747",
+    "summary": "Edward thinks he is in love with Bella. Rachel wants Edward to open his door. Rachel is outside. ",
+    "dialogue": "Edward: Rachel, I think I'm in ove with Bella..\r\nrachel: Dont say anything else..\r\nEdward: What do you mean??\r\nrachel: Open your fu**ing door.. I'm outside"
+  },
+  {
+    "id": "13728094",
+    "summary": "Sam is confused, because he overheard Rick complaining about him as a roommate. Naomi thinks Sam should talk to Rick. Sam is not sure what to do.",
+    "dialogue": "Sam: hey  overheard rick say something\r\nSam: i don't know what to do :-/\r\nNaomi: what did he say??\r\nSam: he was talking on the phone with someone\r\nSam: i don't know who\r\nSam: and he was telling them that he wasn't very happy here\r\nNaomi: damn!!!\r\nSam: he was saying he doesn't like being my roommate\r\nNaomi: wow, how do you feel about it?\r\nSam: i thought i was a good rommate\r\nSam: and that we have a nice place\r\nNaomi: that's true man!!!\r\nNaomi: i used to love living with you before i moved in with me boyfriend\r\nNaomi: i don't know why he's saying that\r\nSam: what should i do???\r\nNaomi: honestly if it's bothering you that much you should talk to him\r\nNaomi: see what's going on\r\nSam: i don't want to get in any kind of confrontation though\r\nSam: maybe i'll just let it go\r\nSam: and see how it goes in the future\r\nNaomi: it's your choice sam\r\nNaomi: if i were you i would just talk to him and clear the air"
+  },
+  {
+    "id": "13716343",
+    "summary": "Wyatt reminds Neville his wedding anniversary is on the 17th of September. Neville's wife is upset and it might be because Neville forgot about their anniversary.",
+    "dialogue": "Neville: Hi there, does anyone remember what date I got married on?\r\nDon: Are you serious?\r\nNeville: Dead serious. We're on vacation, and Tina's mad at me about something. I have a strange suspicion that this might have something to do with our wedding anniversary, but I have nowhere to check.\r\nWyatt: Hang on, I'll ask my wife.\r\nDon: Haha, someone's in a lot of trouble :D\r\nWyatt: September 17. I hope you remember the year ;)"
+  },
+  {
+    "id": "13611672",
+    "summary": "John didn't show up for class due to some work issues with his boss. Cassandra, his teacher told him which exercises to do, and which chapter to study. They are going to meet up for a beer sometime this week after class. ",
+    "dialogue": "John: Ave. Was there any homework for tomorrow?\r\nCassandra: hello :D Of course, as always :D\r\nJohn: What exactly?\r\nCassandra: I'm not sure so I'll check it for you in 20minutes. \r\nJohn: Cool, thanks. Sorry I couldn't be there, but I was busy as fuck...my stupid boss as always was trying to piss me off\r\nCassandra: No problem, what did he do this time?\r\nJohn: Nothing special, just the same as always, treating us like children, commanding to do this and that...\r\nCassandra: sorry to hear that. but why don't you just go to your chief and tell him everything?\r\nJohn: I would, but I don't have any support from others, they are like goddamn pupets and pretend that everything's fine...I'm not gonna fix everything for everyone\r\nCassandra: I understand...Nevertheless, just try to ignore him. I know it might sound ridiculous as fuck, but sometimes there's nothing more you can do.\r\nJohn: yeah I know...maybe some beer this week?\r\nCassandra: Sure, but I got some time after classes only...this week is gonna be busy\r\nJohn: no problem, I can drive you home and we can go to some bar or whatever.\r\nCassandra: cool. ok, I got this homework. it's page 15 ex. 2 and 3, I also asked the others to study another chapter, especially the vocabulary from the very first pages. Just read it.\r\nJohn: gosh...I don't know if I'm smart enough to do it :'D\r\nCassandra: you are, don't worry :P Just circle all the words you don't know and we'll continue on Monday.\r\nJohn: ok...then I'll try my best :D\r\nCassandra: sure, if you will have any questions just either text or call me and I'll help you.\r\nJohn: I hope I won't have to waste your time xD\r\nCassandra: you're not wasting my time, I'm your teacher, I'm here to help. This is what I get money for, also :P\r\nJohn: just kidding :D ok, so i guess we'll stay in touch then\r\nCassandra: sure, have a nice evening :D\r\nJohn: you too, se ya\r\nCassandra: Byeeeee"
+  },
+  {
+    "id": "13730463",
+    "summary": "Sarah sends James an instrumental song he might like. James knows the song. The brain connects the songs to the context they were played in and brings to mind the associated memories.",
+    "dialogue": "Sarah: I found a song on youtube and I think you'll like it\r\nJames: What song?\r\nSarah: <file_other>\r\nJames: Oh. I know it! \r\nJames: I heard it before in some compilation\r\nSarah: I can't stop playing it over and over\r\nJames: That's exactly how I know lyrics to all of the songs on my playlist :D\r\nSarah: Haha. No lyrics here though. Instrumental ;D\r\nJames: Instrumental songs are different kind of music. \r\nJames: But you have to remember that the activity you do when you listen to this song\r\nJames: Is the actvity your brain will connect to the song\r\nJames: And everytime you play this song at home\r\nJames: You'll be thinking of your work\r\nSarah: Yeah, I know that. That's why we sometimes say - I used to like that song, but now it just reminds me of bad memories\r\nJames: Yup. Everytime you change your partner, you have to get rid of your favorite music :D\r\nSarah: Hahaha. True, true."
+  },
+  {
+    "id": "13809976",
+    "summary": "Noah wants to meet, he quit his job, because his boss was a dick.",
+    "dialogue": "Noah: When and where are we meeting? :)\r\nMadison: I thought you were busy...?\r\nNoah: Yeah, I WAS. I quit my job. \r\nMadison: No way! :o :o :o Why? I thought you liked it...?\r\nNoah: Well, I used to, until my boss turned into a complete cock... Long story."
+  },
+  {
+    "id": "13809912",
+    "summary": "Matt invites Agnes for a date to get to know each other better. They'll go to the Georgian restaurant in Kazimierz on Saturday at 6 pm, and he'll pick her up on the way to the place.",
+    "dialogue": "Matt: Do you want to go for date?\r\nAgnes: Wow! You caught me out with this question Matt.\r\nMatt: Why?\r\nAgnes: I simply didn't expect this from you.\r\nMatt: Well, expect the unexpected.\r\nAgnes: Can I think about it?\r\nMatt: What is there to think about?\r\nAgnes: Well, I don't really know you.\r\nMatt: This is the perfect time to get to know eachother\r\nAgnes: Well that's true.\r\nMatt: So let's go to the Georgian restaurant in Kazimierz.\r\nAgnes: Now your convincing me.\r\nMatt: Cool, saturday at 6pm?\r\nAgnes: That's fine.\r\nMatt: I can pick you up on the way to the restaurant.\r\nAgnes: That's really kind of you.\r\nMatt: No problem.\r\nAgnes: See you on saturday.\r\nMatt: Yes, looking forward to it.\r\nAgnes: Me too."
+  },
+  {
+    "id": "13727633",
+    "summary": "Demi got promoted. She will celebrate that with Lucas at Death & Co at 10 pm.",
+    "dialogue": "Lucas: Hey! How was your day?\r\nDemi: Hey there! \r\nDemi: It was pretty fine, actually, thank you!\r\nDemi: I just got promoted! :D\r\nLucas: Whoa! Great news!\r\nLucas: Congratulations!\r\nLucas: Such a success has to be celebrated.\r\nDemi: I agree! :D\r\nDemi: Tonight at Death & Co.?\r\nLucas: Sure!\r\nLucas: See you there at 10pm?\r\nDemi: Yeah! See you there! :D"
+  },
+  {
+    "id": "13729168",
+    "summary": "Mark just shipped the goods and he will send George the tracking number tomorrow.",
+    "dialogue": "Mark: I just shipped the goods\r\nMark: Tomorrow I’ll send you the tracking number\r\nGeorge: Thanks!"
+  },
+  {
+    "id": "13864825",
+    "summary": "Anita is at Bologna station.",
+    "dialogue": "Anita: I'm at the station in Bologna\nJenny: No problems so far?\nAnita: no, everything's going smoothly\nTomy: good!"
+  },
+  {
+    "id": "13729567",
+    "summary": "Arthur is still unemployed. Leon sends him a job offer for junior project manager position. Arthur is interested.",
+    "dialogue": "Leon: did you find the job yet?\r\nArthur: no bro, still unemployed :D\r\nLeon: hahaha, LIVING LIFE\r\nArthur: i love it, waking up at noon, watching sports - what else could a man want?\r\nLeon: a paycheck? ;)\r\nArthur: don't be mean... \r\nLeon: but seriously, my mate has an offer as a junior project manager at his company, are you interested?\r\nArthur: sure thing, do you have any details?\r\nLeon: <file_photo>\r\nArthur: that actually looks nice, should I reach out directly to your friend or just apply to this email address from the screenshot?\r\nLeon: it's his email, you can send your resume directly and I will mention to him who you are :)"
+  },
+  {
+    "id": "13864634",
+    "summary": "Macca has done ice climbing for the first time today, close to Reykjavik. He enjoyed it very much.",
+    "dialogue": "Macca: i'm so exited today\nAdrien: why?\nMacca: I've never done ice climbing before\nMark: Are you ready?\nMacca: think so\nTobias: where are you doing this?\nMacca: not far from Reykjavik\nMacca: Has anybody seriously injured themselves doing this?\nMark: not seriously\nAdrien: I didn't know you're in Iceland!\nMacca: hahaha, doesn't sound so good\nMark: no need to be afraid\nMacca: gosh, it was such a rush\nMark: did you enjoy it?\nMacca: every second\nMacca: it was not very cold\nMacca: the landscapes were magnificent\nMark: I'm glad to read that\nMacca: Challenge of the day done!"
+  },
+  {
+    "id": "13815560",
+    "summary": "Isabella feels bad after the Christmas party. She got drunk. She is ashamed to go back to work. ",
+    "dialogue": "Isabella: fuck my life, I'm so not able to get up to work today\r\nIsabella: I need to call in sick :(\r\nOscar: haha, well you certainly had a good time at the Christmas party yesterday XD\r\nIsabella: shut up, you're a traitor\r\nIsabella: I told you to guard my glass\r\nIsabella: and my sobriety. You clearly failed!\r\nOscar: but you were having such fun, I didn't have a heart to stop it\r\nOscar: <file_photo>\r\nOscar: <file_photo>\r\nIsabella: you're so dead! Is that Jimmy from marketing department?\r\nOscar: yes indeed, it's him :D\r\nIsabella: I am a fallen woman, I cannot get back to the office now\r\nIsabella: <file_gif>\r\nOscar: oh come on, almost everybody was drunk\r\nOscar: so they won't remember a thing :D\r\nIsabella: I assure you, they tend to remember such things…\r\nOscar: <file_gif>"
+  },
+  {
+    "id": "13731403",
+    "summary": "Lucy owes Tina 50 dollars. She made a transfer but it is Sunday so the payment will be on Tina's account on Monday. Tina needs the money because she has been having expanses recently.",
+    "dialogue": "Tina: I'd only like to remind you that you owe me 50 bucks\r\nLucy: Of course, I know.\r\nLucy: I've already transferred the money but it's Sunday today so you'll have it in your bank account tomorrow\r\nTina: That's good news cuz I've been having a lot of expenses lately"
+  },
+  {
+    "id": "13729191",
+    "summary": "Betty feels remorse she got drunk last night and went out of control.",
+    "dialogue": "Betty: Please remind me next time that too much wine isn't good for me and me surrounding\r\nBetty: Hangover is one thing\r\nBetty: But I feel like never touching wine again\r\nAmber: Hahaha. You were so drunk with wine last night, you couldn't walk straight even 5 steps\r\nAmber: You took off your weeding ring and shouted \"My precious\"\r\nBetty: Uhh. I have no blackouts so I know exactly what to feel embarassed about...."
+  },
+  {
+    "id": "13827937",
+    "summary": "Mike and Mary are going to visit Mike's grandma tonight. Mary will buy her some chocolate.",
+    "dialogue": "Mary: Hi Mike!\r\nMike: Hello :)\r\nMary: do u have any plans for tonight?\r\nMike: I'm going to visit my grandma.\r\nMike: You can go with me.\r\nMike: She likes u very much.\r\nMary: Good idea, i'll buy some chocolate for her."
+  },
+  {
+    "id": "13828064",
+    "summary": "Laura will pick up Kim from work around 7, and they will come back home together.",
+    "dialogue": "Laura: ok , I'm done for today-)\r\nLaura: let me know once u're free and we come back home together\r\nKim: hmm.. 7?\r\nLaura: ok\r\nKim: cool, wait for me at work, I'll call once I get here"
+  },
+  {
+    "id": "13716048",
+    "summary": "Erin is convinced by Ashley's book recommendations, while Seamus and Marcus aren't.",
+    "dialogue": "Ashley: Guys, you have to read this book!  <file_photo>\r\nMarcus: Why, what's so special about it?\r\nErin: I think I've already heard about it from someone. Is it really that good?\r\nAshley: It's the best thing I've ever read! Completely life-changing! It's opened my eyes to a lot of things.\r\nSeamus: Sorry, but I don't like books that are written to change my life. I prefer books that are simply fun to read :P\r\nMarcus: I get what you mean. I feel like some authors are so concentrated on making their books full of wisdom that they completely forget that they should also be readable.\r\nErin: Do you mean Coelho? XD\r\nMarcus: No, while I'm not a fan of his, at least I've never fallen asleep while reading his books. I meant this one for example: <file_other>\r\nAshley: Erm, I quite like his books.\r\nSeamus: Did they change your life too? :D\r\nAshley: Wait, I meant Coelho. I've never read the other guy.\r\nMarcus: Trust me, don't. There are lots of better ways of wasting your time.\r\nAshley: LOL, okay, I trust you. But the one I posted at the beginning is really good. It's not just some philosophical gibberish, it's actually a crime novel, so there's a lot of action too.\r\nErin: Does it have a cute detective? ;)\r\nAshley: Even two of them, actually. Believe me, you won't be able to decide which one to love more!\r\nErin: Okay, I'm already sold :D"
+  },
+  {
+    "id": "13828741",
+    "summary": "Aria has just run into Charlie Evans. He is now married, with two daughters, and a family business. She has also met Cooper Roy from high school. She used to have a crush on him, now she almost didn't recognise him. Maverick and Aria miss the old times and think the world has changed for the worse.",
+    "dialogue": "Aria: You won't believe who I've just met!\r\nAria: Charlie Evans!\r\nMaverick: Oh God, I haven't seen him from ages!\r\nMaverick: How is he doing?\r\nAria: He's doing great. :)\r\nAria: He got married, he runs a small family business, which he is very passionate about and generally he seems to be a happy and fulfilled man. :)\r\nAria: Oh, and he has two absolutely adorable daughters. :)\r\nAria: It was so nice to meet him, he's such a sweet soul.\r\nMaverick: I’m glad to hear that. :)\r\nMaverick: Time flies so fast, doesn't it?\r\nAria: It does. :) Recently I’ve met Cooper Roy, I'm sure you remember him, I constantly talked about him back then in high school, because I had a huge crush on him. He’s changed a lot!\r\nAria: I barely recognized him!\r\nMaverick: I remember, how you and Kylie used to gossip about him all the time. :)\r\nAria: Well, we were madly in love with him.\r\nAria: Or at least we thought so. ;)\r\nMaverick: I sometimes miss those times.\r\nMaverick: Everything seemed to be easier, better and calmer back then.\r\nAria: The world wasn’t as crazy as it is now.\r\nAria: I feel like politics got crazier, people - more radical and hostile and economics - less predictable...\r\nMaverick: Me too...:("
+  },
+  {
+    "id": "13681946",
+    "summary": "Omenah is at home, Anna will be there in a minute.",
+    "dialogue": "Anna: where are you\r\nOmenah: at home \r\nAnna: I will be there in a minute "
+  },
+  {
+    "id": "13728653",
+    "summary": "Layla the dog misses Rachel. She is having a knee surgery, because of arthritis. Renee sends a picture of her dog. Rachel getting settled and she's looking for a job in teaching. ",
+    "dialogue": "Renee: Just saying Hi. Thought of you this morning.Layla misses you. She is having knee surgery. Hope you are doing well.\r\nRachel: Renee! Hey! Whoa! So crazy that you wrote. I was literally thinking of you the other day as well. \r\nRachel: I am doing really well, getting settled here and everything. Looking for a new job. \r\nRachel: Layla is getting knew surgery?! What happened?\r\nRenee: Her arthritis got really bad. I saw her limping every time we went out for a walk, and so I took her to the vet and they decided she needs surgery. \r\nRachel: Oh wow. That is really intense. I am sending her lots of love.\r\nRenee: Thanks Rachel. \r\nRenee: Here is a pic of Layla from this morning.\r\nRenee: <file_picture>\r\nRenee: She is all cute in her usual spot. \r\nRachel: Ha! Yeah, I remember, she would always try to fit in there even though she's obviously too big\r\nRachel: 😂\r\nRenee: Yeah, she's always getting into some sort of silly situations.\r\nRenee: What kind of work are you looking for?\r\nRachel: Just the usual, something with teaching. I am not too stressed yet, I have some savings.\r\nRenee: That's good, yeah, you don't want to have to feel pressured into taking a certain job. \r\nRenee: Just so you know, if you are ever back, you are more than welcome to come back and work for me. \r\nRenee: Layla is definitely missing you taking her on walks everyday. \r\nRachel: Aw, yeah, I miss you guys too. Of course :) If I am ever back I will let you know! "
+  },
+  {
+    "id": "13818918",
+    "summary": "Jonas will be 10 minutes late. Natalie will let Mary know Jonas will present before she starts.",
+    "dialogue": "Jonas: I’m running 10 minutes late. Could you guys just let Mary know that I’m coming and will present today before she starts?\r\nNatalie: Sure no problem\r\nOlivia: I’ll save a seat for you 😍\r\nJonas: Thanks so much. See you in a bit xx"
+  },
+  {
+    "id": "13810064",
+    "summary": "Lawrence doesn't like the play of Manchester United. He and Julius complain about the team and Mourinho's style.",
+    "dialogue": "Julius: dude, your assessment of manutd\r\nLawrence: i have nothing to say, im so offended and hopeless of them this season\r\nJulius: me too\r\nLawrence: i dont even know whats wrong with the team\r\nJulius: the quality is there but nothing is happening\r\nLawrence: the players look tired of something\r\nJulius:  with mourinhos conservative football!!\r\nLawrence: its so boring\r\nJulius: so lifeless\r\nLawrence: man!!\r\nJulius: it needs to change, hope the board sees it\r\nLawrence: sooner than later\r\nJulius: yeah\r\nLawrence: yeah"
+  },
+  {
+    "id": "13729933",
+    "summary": "The trip Wayne was going to go on was postponed. Now Jade will be able to go to.",
+    "dialogue": "Jade: are you going to that trip\r\nWayne: was\r\nJade: what do you mean\r\nWayne: its portponed\r\nJade: are you kidding me XD\r\nWayne: im serious, why surprised\r\nJade: i had to go home and miss it xD\r\nWayne: oh, cool you can make it when we go\r\nJade: yea, yesss\r\nWayne: :D"
+  },
+  {
+    "id": "13830054",
+    "summary": "Jason is going to Thailand next week. Natalie will send him pictures of the spices she wants him to buy for her. Then she will remind him about it in two weeks.",
+    "dialogue": "Natalie: are you still going to Thailand?\r\nJason: yeah, next week as planned\r\nJason: why?\r\nNatalie: could you buy me some spices?\r\nNatalie: I can't find anything similar here\r\nNatalie: and I really like those\r\nJason: sure, if you'll send me all the names\r\nJason: you know, I'm not very good when it comes to remembering those\r\nNatalie: of course, I will take pictures of the ones I have to make it easier\r\nJason: great and just to be sure remind me about that in two weeks or so\r\nJason: I might have other things on my mind and I tend to forget things easily :)\r\nNatalie: that shouldn't be a problem :)"
+  },
+  {
+    "id": "13716981",
+    "summary": "Elisa, Sadie, Carol, Liam, Tom and John want to go for drinks tonight at Mombasa. Arthur will come with Alice. Kai will join them around 8. Elisa will book the big corner table for 15 people.",
+    "dialogue": "Elisa: Who wants to come for drinks tonight at Mombasa?\r\nAlice: me!\r\nSadie: I'm in as well\r\nCarol: may I bring some people?\r\nElisa: sure, the more the better!\r\nCarol: amazing\r\nArthur: count me in! I'll come with Alice of course\r\nLiam: me too!\r\nKai: I will join you but after my courses, around 8\r\nElisa: No problem, we'll be there till midnight at least\r\nTom: i may come over :)\r\nElisa: Anybody else? I'd like to book the corner table\r\nTom: the big one?\r\nElisa: exactly\r\nJohn: So count me in as well\r\nElisa: Perfect, the table is for 15 people so we should manage! See you there"
+  },
+  {
+    "id": "13818614",
+    "dialogue": "Customer: This Pav Bhaji bursts with flavors, an absolute treat!\nBot Response: We're thrilled you enjoyed our Pav Bhaji! Your satisfaction is our priority.",
+    "summary": "Customer finds the Pav Bhaji bursting with flavors, an absolute treat."
+    },
+    {
+    "id": "13818615",
+    "dialogue": "Customer: Chole Bhature, my go-to comfort meal, always hits the spot!\nBot Response: We're delighted to be your go-to for comfort food! Your satisfaction motivates us.",
+    "summary": "Customer's go-to comfort meal, Chole Bhature, always hits the spot."
+    },
+    {
+    "id": "13818616",
+    "dialogue": "Customer: The Pizza boasts a perfect blend of cheese and crispy crust.\nBot Response: We're pleased you enjoyed our Pizza! Your satisfaction is our priority.",
+    "summary": "Customer appreciates the perfect blend of cheese and crispy crust in the Pizza."
+    },
+    {
+    "id": "13818617",
+    "dialogue": "Customer: Mango Lassi strikes a delightful balance of sweetness.\nBot Response: We're glad you enjoyed our Mango Lassi! Your satisfaction motivates us.",
+    "summary": "Customer finds Mango Lassi striking a delightful balance of sweetness."
+    },
+    {
+    "id": "13818618",
+    "dialogue": "Customer: Crispy Masala Dosa delights with its flavorful filling.\nBot Response: We're thrilled you enjoyed our Masala Dosa! Your satisfaction is our priority.",
+    "summary": "Customer delights in the crispy Masala Dosa with its flavorful filling."
+    },
+    {
+    "id": "13818619",
+    "dialogue": "Customer: Aromatic Biryani features tender, succulent meat.\nBot Response: We're pleased you enjoyed our Biryani! Your satisfaction motivates us.",
+    "summary": "Customer appreciates the aromatic Biryani featuring tender, succulent meat."
+    },
+    {
+    "id": "13818620",
+    "dialogue": "Customer: Vada Pav brings the essence of Mumbai streets right to your plate!\nBot Response: We're thrilled to bring the essence of Mumbai to your plate with our Vada Pav! Your satisfaction is our priority.",
+    "summary": "Customer feels that Vada Pav brings the essence of Mumbai streets right to their plate."
+    },
+    {
+    "id": "13818621",
+    "dialogue": "Customer: Rava Dosa offers a tantalizingly crispy texture.\nBot Response: We're pleased you enjoyed our Rava Dosa! Your satisfaction motivates us.",
+    "summary": "Customer finds Rava Dosa offering a tantalizingly crispy texture."
+    },
+    {
+    "id": "13818622",
+    "dialogue": "Customer: Samosa tantalizes with its delicious filling and golden crust.\nBot Response: We're thrilled you enjoyed our Samosa! Your satisfaction is our priority.",
+    "summary": "Customer finds Samosa tantalizing with its delicious filling and golden crust."
+    },
+    {
+    "id": "13818623",
+    "dialogue": "Customer: While the Pav Bhaji leans toward spiciness, it's still enjoyable.\nBot Response: We're glad you enjoyed our Pav Bhaji! Your feedback helps us improve.",
+    "summary": "Customer finds the Pav Bhaji enjoyable despite leaning toward spiciness."
+    },
+    {
+    "id": "13818624",
+    "dialogue": "Customer: Chole Bhature could use a bit more flavor but remains decent.\nBot Response: Thank you for your feedback. We'll work on enhancing the flavor of our Chole Bhature.",
+    "summary": "Customer feels Chole Bhature could use a bit more flavor but remains decent."
+    },
+    {
+    "id": "13818625",
+    "dialogue": "Customer: Pizza toppings are somewhat scanty, could be more generous.\nBot Response: We appreciate your feedback. We'll review our pizza toppings for a better experience.",
+    "summary": "Customer feels the Pizza toppings are somewhat scanty and could be more generous."
+    },
+    {
+    "id": "13818626",
+    "dialogue": "Customer: Mango Lassi, while a tad sweet, refreshes with every sip.\nBot Response: We're glad you enjoyed our Mango Lassi! Your satisfaction motivates us.",
+    "summary": "Customer finds Mango Lassi refreshing with every sip despite being a tad sweet."
+    },
+    {
+    "id": "13818627",
+    "dialogue": "Customer: The Masala Dosa, though slightly oily, bursts with flavor.\nBot Response: We're thrilled you enjoyed our Masala Dosa! Your satisfaction is our priority.",
+    "summary": "Customer finds the Masala Dosa bursting with flavor despite being slightly oily."
+    },
+    {
+    "id": "13818628",
+    "dialogue": "Customer: Biryani is a tad dry, could benefit from more moisture.\nBot Response: Thank you for your feedback. We'll ensure our Biryani has the perfect moisture level.",
+    "summary": "Customer finds the Biryani a tad dry and suggests it could benefit from more moisture."
+    },
+    {
+    "id": "13818629",
+    "dialogue": "Customer: Vada Pav is satisfying, though the pav tends to be soggy.\nBot Response: Thank you for your feedback. We'll work on ensuring our Vada Pav has a perfect texture.",
+    "summary": "Customer finds Vada Pav satisfying despite the pav tending to be soggy."
+    },
+    {
+    "id": "13818630",
+    "dialogue": "Customer: Rava Dosa is a tad thick, lacking the traditional crispiness.\nBot Response: Thank you for your feedback. We'll work on achieving the traditional crispiness of our Rava Dosa.",
+    "summary": "Customer finds Rava Dosa a tad thick and suggests it lacks the traditional crispiness."
+    },
+    {
+    "id": "13818631",
+    "dialogue": "Customer: Samosa filling lacks seasoning, could use a boost in flavor.\nBot Response: Thank you for your feedback. We'll enhance the seasoning of our Samosa filling.",
+    "summary": "Customer finds Samosa filling lacking seasoning and suggests it could use a boost in flavor."
+    },
+    {
+    "id": "13818632",
+    "dialogue": "Customer: Pav Bhaji's saltiness overshadows its flavors, making it challenging to finish.\nBot Response: We're sorry to hear that. Your feedback helps us improve our Pav Bhaji.",
+    "summary": "Customer finds Pav Bhaji's saltiness overshadowing its flavors, making it challenging to finish."
+    },
+    {
+    "id": "13818633",
+    "dialogue": "Customer: Chole Bhature disappoints, with hard, unyielding bhature.\nBot Response: Thank you for bringing this to our attention. We'll ensure our Chole Bhature is soft and fluffy.",
+    "summary": "Customer is disappointed with Chole Bhature, finding the bhature hard and unyielding."
+    },
+    {
+    "id": "13818634",
+    "dialogue": "Customer: The Pizza is priced reasonably, considering its toppings.\nBot Response: We're pleased you find our Pizza reasonably priced! Your satisfaction motivates us.",
+    "summary": "Customer finds the Pizza reasonably priced considering its toppings."
+    },
+    {
+    "id": "13818635",
+    "dialogue": "Customer: Mango Lassi feels overpriced for a simple beverage.\nBot Response: Thank you for your feedback. We'll review our pricing for Mango Lassi to ensure customer satisfaction.",
+    "summary": "Customer feels Mango Lassi is overpriced for a simple beverage."
+    },
+    {
+    "id": "13818636",
+    "dialogue": "Customer: Masala Dosa's quality justifies its price point.\nBot Response: We're pleased you find our Masala Dosa worth the price! Your satisfaction motivates us.",
+    "summary": "Customer believes Masala Dosa's quality justifies its price point."
+    },
+    {
+    "id": "13818637",
+    "dialogue": "Customer: Biryani is slightly pricey but makes up for it in taste.\nBot Response: We're glad you enjoyed our Biryani despite the price. Your satisfaction is our priority.",
+    "summary": "Customer finds Biryani slightly pricey but believes it makes up for it in taste."
+    },
+    {
+    "id": "13818638",
+    "dialogue": "Customer: Vada Pav offers great value for its budget-friendly price.\nBot Response: We're pleased you find our Vada Pav a great value! Your satisfaction motivates us.",
+    "summary": "Customer believes Vada Pav offers great value for its budget-friendly price."
+    },
+    {
+    "id": "13818639",
+    "dialogue": "Customer: Rava Dosa seems a bit expensive compared to other dosa variants.\nBot Response: Thank you for your feedback. We'll review our pricing for Rava Dosa to ensure customer satisfaction.",
+    "summary": "Customer feels Rava Dosa seems a bit expensive compared to other dosa variants."
+    },
+    {
+    "id": "13818640",
+    "dialogue": "Customer: Samosa is reasonably priced for a quick snack.\nBot Response: We're pleased you find our Samosa reasonably priced! Your satisfaction motivates us.",
+    "summary": "Customer believes Samosa is reasonably priced for a quick snack."
+    },
+    {
+    "id": "13818641",
+    "dialogue": "Customer: Pav Bhaji is affordable but could offer a larger portion size.\nBot Response: Thank you for your feedback. We'll consider offering a larger portion size for our Pav Bhaji.",
+    "summary": "Customer finds Pav Bhaji affordable but suggests it could offer a larger portion size."
+    },
+    {
+    "id": "13818642",
+    "dialogue": "Customer: Chole Bhature appears overpriced given its quality.\nBot Response: Thank you for bringing this to our attention. We'll review our pricing for Chole Bhature to ensure customer satisfaction.",
+    "summary": "Customer feels Chole Bhature appears overpriced given its quality."
+    },
+    {
+    "id": "13818643",
+    "dialogue": "Customer: Pizza offers reasonable value for its quality and taste.\nBot Response: We're pleased you find our Pizza offering reasonable value! Your satisfaction motivates us.",
+    "summary": "Customer believes Pizza offers reasonable value for its quality and taste."
+    },
+    {
+    "id": "13818644",
+    "dialogue": "Customer: Mango Lassi's price feels justified by its refreshing flavor.\nBot Response: We're glad you enjoyed our Mango Lassi! Your satisfaction motivates us.",
+    "summary": "Customer feels Mango Lassi's price is justified by its refreshing flavor."
+    },
+    {
+    "id": "13818645",
+    "dialogue": "Customer: Delivery Feedback: Prompt delivery; food arrives piping hot and fresh!\nBot Response: We're delighted to hear that! Your satisfaction is our priority.",
+    "summary": "Customer appreciates the prompt delivery with piping hot and fresh food."
+    },
+    {
+    "id": "13818646",
+    "dialogue": "Customer: Swift delivery of Chole Bhature; still warm, excellent service.\nBot Response: We're pleased to provide excellent service! Your satisfaction motivates us.",
+    "summary": "Customer appreciates the swift delivery of Chole Bhature, which is still warm."
+    },
+    {
+    "id": "13818647",
+    "dialogue": "Customer: Pizza delivery arrives precisely on time, maintaining its warmth.\nBot Response: We're glad you enjoyed our timely delivery and warm pizza! Your satisfaction is our priority.",
+    "summary": "Customer appreciates the on-time delivery of Pizza, which maintains its warmth."
+    },
+    {
+    "id": "13818648",
+    "dialogue": "Customer: Mango Lassi arrives intact, thanks to careful packaging.\nBot Response: We're pleased to hear that! Your satisfaction is our priority.",
+    "summary": "Customer appreciates the intact arrival of Mango Lassi, thanks to careful packaging."
+    },
+    {
+    "id": "13818649",
+    "dialogue": "Customer: Early arrival of Masala Dosa, still maintaining its crispiness.\nBot Response: We're glad you enjoyed our early delivery and crispy Masala Dosa! Your satisfaction motivates us.",
+    "summary": "Customer appreciates the early arrival of Masala Dosa, which maintains its crispiness."
+    },
+    {
+    "id": "13818650",
+    "dialogue": "Customer: Biryani delivery is slightly delayed but remains warm.\nBot Response: We're glad our Biryani arrived warm despite the delay! Your satisfaction is our priority.",
+    "summary": "Customer appreciates that Biryani delivery, though slightly delayed, remains warm."
+    },
+    {
+    "id": "13818651",
+    "dialogue": "Customer: Vada Pav is delivered quickly; pav remains soft and fresh.\nBot Response: We're delighted you enjoyed our quick delivery and fresh Vada Pav! Your satisfaction motivates us.",
+    "summary": "Customer appreciates the quick delivery of Vada Pav, with the pav remaining soft and fresh."
+    },
+    {
+    "id": "13818652",
+    "dialogue": "Customer: Late delivery of Rava Dosa is compensated by its flavorful taste.\nBot Response: We're glad you enjoyed our flavorful Rava Dosa despite the delay! Your satisfaction is our priority.",
+    "summary": "Customer feels that the late delivery of Rava Dosa is compensated by its flavorful taste."
+    },
+    {
+    "id": "13818653",
+    "dialogue": "Customer: Samosa delivery is fast, maintaining its crispy texture.\nBot Response: We're pleased you enjoyed our fast delivery and crispy Samosa! Your satisfaction motivates us.",
+    "summary": "Customer appreciates the fast delivery of Samosa, which maintains its crispy texture."
+    },
+    {
+    "id": "13818654",
+    "dialogue": "Customer: Prompt delivery, though Pav Bhaji lacks a side dish.\nBot Response: We apologize for the oversight. Your feedback helps us improve our service.",
+    "summary": "Customer appreciates the prompt delivery but notes that Pav Bhaji lacks a side dish."
+    },
+    {
+    "id": "13818655",
+    "dialogue": "Customer: Delayed Chole Bhature delivery results in slightly dried-out chole.\nBot Response: We apologize for the inconvenience. Your feedback helps us improve our delivery service.",
+    "summary": "Customer notes that delayed Chole Bhature delivery results in slightly dried-out chole."
+    },
+  {
+    "id": "13728757",
+    "summary": "Amy and Hal will have dinner together when he is back home before 7.",
+    "dialogue": "Hal: Have you got any homework for tomorrow?\r\nAmy: no dad\r\nHal: ru sure?\r\nAmy: told ya\r\nHal: You know mum's not home today.\r\nAmy: I know, I can use the microwave\r\nHal: good girl. I'll be home around 6\r\nAmy: yeah right\r\nHal: what do you mean\r\nAmy: sry dad but you're never ever home at 6\r\nHal: i suppose you;re right. but I'll try today\r\nAmy: ok. can I go to Alex?\r\nHal: ok, but be back home before 7. we'll have dinner together\r\nAmy: ok dad\r\nHal: and if you really have no homework to do\r\nAmy: sure thing dad"
+  },
+  {
+    "id": "13716573",
+    "summary": "Ray's bike was stolen from the 9th street yesterday even though it was secured. It was a custom bike so now Ray's out few grand. Ray wants to post posters in the area so they'll get scared and leave it somewhere. Luke had one stolen last month from the same area. Sam wants to help out.",
+    "dialogue": "Ray: Hey guys, I don't know if you heard but someone stole my bike yesterday so I'm going to post it on fb and would appreciate if you share! THX\r\nSam: shit, man, sorry to hear, I will share for sure\r\nLuke: when was it, Ray? I had mine stolen last month around when I parked around on the 9th street\r\nRay: Mine was there too :( cops said it's a common area for it to happen but I still havent lost hope :(\r\nScott: Did they check the security cameras around the place? Maybe Mariott people saw someone?\r\nRay: Apparently they don't overlook that area... \r\nLuke: Yeah, cops were completely useless too, I ended up going to Mariott on my own and asking people but they didn't see anything. I emailed their manager if they could look at the tapes but because of privacy issues blah blah blah it was a no go... Good luck man!\r\nRay: I mean those guys are pros... I had high grade lock on mine and an app alert and it didn't do shit. Now I'm out few grand and pissed off\r\nScott: I would be too. Did you post posters in the area? it's a busy street so maybe someone saw something\r\nRay: Yeah, I'm getting around to it now and I really hope that smeone was sober enough to notice anything. I mean it's a custom bike so I hope if they try to get rid of it it will rise suspicion\r\nLuke: I think it might ve already been turned into parts and shipped off. Even if you wanted to keep it and painted it, you could still recognize it\r\nRay: I know, that's why I wanna reach as many people as posible,maybe they ll get spooked and leave it somewhere\r\nSam: Let us know if you need someone to go dumpster diving with \r\nRay: Heh, thx Sam! I appreciate all help"
+  },
+  {
+    "id": "13731370-1",
+    "summary": "Eric wants to bet during the Champions League this year although he lost a lot of money last year. Curtis won't bet.",
+    "dialogue": "Eric: Champions League is coming soon :D\r\nCurtis: Oh, yea I forgot about that.\r\nCurtis: when exactly?\r\nEric: 26th of June\r\nEric: but there is still a very long way.\r\nCurtis: any predictions?\r\nEric: It's too early for that.\r\nCurtis: True, last year you were betting a lot\r\nEric: I lost a lot :P \r\nEric: I'm gonna roar back this year :)\r\nCurtis: good luck, I'm not into risking money\r\nEric: You have 50% chance to win.\r\nCurtis: I'll pass anyway.\r\nEric: okay"
+  },
+  {
+    "id": "13730401",
+    "summary": "Chandler will pay for his coffee tomorrow.",
+    "dialogue": "Gunther: did you pay for coffee?\r\nChandler: uhh.. i guess not xDbut it's okay i'll pay him tomorrow\r\nGunther: -_-"
+  },
+  {
+    "id": "13716152",
+    "summary": "Karen looked very good on her 5th anniversary dinner with Mark. ",
+    "dialogue": "Karen: <file_photo>\r\nJennifer: OH. MY. GOD. is that you?? I would not recognize you haha\r\nKaren: of course it's me, i always look like that hahaha\r\nJennifer: oh god Karen you look so hot in this picture\r\nAbigail: i would not recognize you either :D why where you so dressed up?\r\nKaren: it was our 5th anniversary dinner\r\nAbigail: Mark is such a lucky guy\r\nMeggy: i agree with the girls, you look OUTSTANDING\r\nKaren: thank you sisters!!! :*** that's so sweet of you\r\nJennifer: where did you buy this dress? i need one like it too\r\nAbigail: i was gonna ask the same thing!\r\nMeggy: chill out girls, we can't all buy the same clothes, i need it more hahaha\r\nKaren: <file_other>\r\nMeggy: first come, first serve!! I am ordering it\r\nKaren: give the rest a chance too haha\r\nJennifer: let her have it :P"
+  },
+  {
+    "id": "13715883",
+    "summary": "Ted, Jake, Pia, Jessica and Jess are having a reunion this Friday at the same place as the previous one.",
+    "dialogue": "Ted: Any news about weekend?\r\nJake: About the reunion?\r\nPia: I am available! Did we talk where?\r\nJessica: If I move some things around, I can too!\r\nTed: Great! we should set the place then\r\nJake: Whoa! I didn't say I could\r\nTed: Can you?\r\nJake: Hell yeah man! You know I freelance, worst case scenario I'll work from wherever we are\r\nTed: Lucky bastard\r\nJessica: We should meet up where we did last time, it's perfect middle for everyone\r\nTed: I agree\r\nPia: Friday night then?\r\nJess: Sure\r\nTed: It's a date, I'll book rooms\r\nJake: See you soon my peeps!"
+  },
+  {
+    "id": "13809921",
+    "summary": "Julianna tells Bradley about Europe's law and the approach towards pedophiles.",
+    "dialogue": "Bradley: It's very safe. Not like they make it look on TV\r\nJulianna: Hehe I told them that also that tv will never show anything nice\r\nBradley: True...\r\nJulianna: But in general I think Europe is safer because here we have different law. I mean we have too much law\r\nBradley: Haha\r\nJulianna: E.g here if a teacher even touches a children's arm, he or she can have problems with police and law. Because it might be a sign of pedophilia or children sexual harassment\r\nBradley: Ok\r\nJulianna: That's sick a bit hehe but on the other hand sometimes it's ok\r\nBradley: Haha ok how ?\r\nJulianna: Because there are pedophiles in that world\r\nBradley: They are everywhere\r\nJulianna: And when someone hits a child that person should be punished"
+  },
+  {
+    "id": "13680760",
+    "summary": "Lucia needs a new hairstyle due to a change of work and she makes an appointment with Eric for Friday 3 p.m.",
+    "dialogue": "Lucia: I need my hair cut.\r\nLucia: When can I come? I've got some time on Thursday and Friday.\r\nEric: Lucia! My dear!\r\nEric: Are you sure? After all, you had your hairstyle done a week ago.\r\nEric: What's the matter? Don't you like it?\r\nLucia: I like it very much and I regret to lose it.\r\nLucia: But I'm changing the job and my hair must be shorter...\r\nEric: I see. You'll tell me everything in detail once you're here, in my beauty salon.\r\nEric: I suggest Friday at 3 p.m. Is it fine for you?\r\nLucia: Sure, perfect.\r\nEric: Fantastic, have a nice day then.\r\nLucia: Thanks, bye."
+  },
+  {
+    "id": "13612028",
+    "summary": "Gabriella asked Jasmine to check her CV which is in English. She's applying for a perfect job. Jasmine checked it and did only minor corrections. She hopes Gabriella will get the job.",
+    "dialogue": "Gabriella: Hey Jasmine, how are you doing?\r\nJasmine: I’m fine, thanks 😊\r\nGabriella: Would you do me a favor?\r\nJasmine: No problem. How can I help?\r\nGabriella: I need to send my CV in English to a truly perfect job for me and I’m wondering if you could take a look at it?\r\nJasmine: Sure! Send it to me 😊\r\nGabriella: Done 😊\r\nJasmine: Got it. Give me an hour and I’ll check it \r\nGabriella: Perfect! Thank you soooo much!\r\nJasmine: I’ve checked it. I must say that there wasn’t much to correct. It was practically perfect. I just fixed a little bit grammar and a few spelling mistakes. \r\nGabriella: I know how great you are at spelling!\r\nJasmine: Thanks Gabriella. I hope that you will get that job!\r\nGabriella: I hope so, too.\r\nJasmine: I’ll keep my fingers crossed 😊"
+  },
+  {
+    "id": "13727812",
+    "summary": "Grace saw Ruth in Galitos but she thought it would be embarassing to get in and greet her. They will meet tomorrow.",
+    "dialogue": "Grace: Hey lady\r\nGrace: Today I saw you in town.\r\nRuth: Really?\r\nRuth: Why didn't you stop me?\r\nGrace: You were in Galitos and I could not have stormed in just to greet you.\r\nRuth: Of course you would have.\r\nRuth: There is no harm in doing that.\r\nGrace: 😂😂The embarrassment though.\r\nRuth: Furthermore I would have given you a piece of my pizza.😂\r\nGrace: Pizza is bomb🤤\r\nGrace: Be sure next time i will not need any invitation😂\r\nRuth: You are still welcome🤣\r\nGrace: Okay. BTW, do you think we can catch up some time?\r\nRuth: Yeah sure. Just say the day.\r\nGrace: Tomorrow?\r\nRuth: I'm in.\r\nGrace: Okay see you then\r\nRuth: Bye"
+  },
+  {
+    "id": "13862922",
+    "summary": "Stella wants to see the apartment in the morning. She plans to split it into 2 apartments.",
+    "dialogue": "Kerri: Did you see the apartment?\nStella: yes brb\nKerri: ok\nStella: Sorry I was driving\nStella: I saw it yesterday but it was already dark so I want to go again to see it in the morning\nStella: First of all, its really big, 130 sqm\nKerri: WOW\nStella: I could split it into 2 apartments\nStella: 90 and 40 sqm more or less\nKerri: Or 80 and 50?\nStella: Not really, there's only one way to split it\nStella: So I could stay in the big one with 3 bedrooms and 2 bathrooms\nKerri: Sounds good\nStella: I want to see it in the morning\nStella: The agent said the bedrooms are very sunny in the morning\nStella: Maybe I'll go tomorrow\nKerri: Took some photos?\nStella: <file_photo>\nStella: <file_photo>\nStella: <file_photo>\nKerri: Nice!!!\nKerri: The kitchen looks fantastic\nKerri: Its huge\nStella: It's the size of my living room!\nStella: We obviously don't need 3 bedrooms\nStella: But I could have a decent home office at last\nKerri: Has Greg seen it?\nStella: No, he's away this week"
+  },
+  {
+    "id": "13862359",
+    "summary": "Andrea must correct 50% of 20 short texts for an online shop. She has a deadline in two weeks. Sondra cannot help Andrea, because her cat is dying and nanny's leaving. Jill also cannot help. Sondra will probably have only one free evening in March and more free time probably in June. ",
+    "dialogue": "Andrea: hey Babes, how's it going? I've got some job to do. 20 short texts for an online shop. 50% for correction. Deadline in two weeks. Will you help me?\nSondra: Hi, sorry I don't think Im gonna make it. It is hard these days.\nAndrea: ?\nSondra: My cat is dying and nanny's leaving... :/\nAndrea: damn.. sorry to hear that. I f you could give me someone, maybe you know somebody suitable? I know aleady Jill can't do it :/\nSondra: Jill is the best. Other people need assitance. Do you want these contacts?\nAndrea: not really...\nSondra: :)\nAndrea: If you found a window in a spacetime, please let me know. Ill get the texts on Friday.\nSondra: OK, but I dont think it will happen. The first window I see is probably in June.\nAndrea: I understand. I hope the kitty is going to make it, I keep my fingers crossed for him..\nSondra: In march Im gonna have as many as ONE free evening if everything goes well. Thanks he is still alive, maybe he is stronger than it looks now.\nAndrea: <file_gif>"
+  },
+  {
+    "id": "13828591",
+    "summary": "Charles will go with Victor to the museum tonight. There is an opening of an exhibition about cubism. There'll be food, music and VIPs.",
+    "dialogue": "Victor: do you want to go to the museum tonight?\r\nVictor: there's a great exhibition about cubism going on\r\nCharles: you know i hate museums! lol\r\nCharles: i'd rather watch paint dry hahaha\r\nVictor: i know you hate museums...\r\nVictor: BUT tonight special\r\nCharles: why?\r\nVictor: because tonight is opening night!!! :-D\r\nCharles: what makes it different?\r\nVictor: there's food, music, VIPs, everyone dresses up, it's just fun\r\nVictor: it's upscale fun :-D\r\nVictor: come on! be my plus 1!!!\r\nCharles: i guess if you're asking me that means tons of people have said no\r\nCharles: i'm sure i'm not at the top of your list lol\r\nCharles: am i right? lol\r\nVictor: hahaha you're right... \r\nVictor: but the only reason you were not at the top of my list is becase i know it's not your thing\r\nVictor: i promise you it'll be fun\r\nVictor: and if you don't like it we'll go to a sports bar afterwards and i'll treat you to all the beer you want\r\nCharles: hahaha, ok, that sweetens the pot\r\nCharles: i'll go with you"
+  },
+  {
+    "id": "13728090",
+    "summary": "Elizabeth had an argument with Blackett today, but she doesn't want William to intermeddle.",
+    "dialogue": "William: Hey. Today i saw you were arguing with Blackett.\r\nWilliam: Are you guys fine?\r\nElizabeth: Hi. Sorry you had to see us argue.\r\nElizabeth: It was just a small misunderstanding but we will solve it.\r\nWilliam: Hope so\r\nWilliam: You think I should to talk to him about it?\r\nElizabeth: No don't\r\nElizabeth: He won't like it that we talked after the argument.\r\nWilliam: Ok. But if you need any help, don't hesitate to call me\r\nElizabeth: Definitely"
+  },
+  {
+    "id": "13682071",
+    "summary": "Henry and Lily take William with them to Riehen. They will meet with him for a coffee before they start, and eat a meal together afterwards.",
+    "dialogue": "Henry: Hey Lily, tried to catch you on landline but no answer. Gone already? Let me know when we can talk.\r\nLily: Am driving to town.\r\nHenry: OK\r\nHenry: Before we talk: I bumped into William in the street yesterday and we ended up in a pub. Poor chappy! Really. He'll never recover from his loss. En passant I mentioned our trip to Riehen next week and had an impression he'd be happy to be taken along. What d'you think?\r\nHenry: I thought it doesn't matter that much to us and he's a nice chap, interesting to talk to, good company. And he seems sort of famished for company, old friends around him. You know what I mean.\r\nHenry: And that could be our good deed before Xmas! ;)\r\nLily: Traffic was soooooo slow but I couldn't really reply. In the lecture now.\r\nLily: I always liked William, have no problem with him joining us to Riehen. How do you imagine that?\r\nHenry: He'll come to FR, leave his car in my drive and in mine we'll pick you up.\r\nLily: Very good. A coffee at mine before we start?\r\nHenry: I thought maybe a meal together afterwards?\r\nLily: Even better. I like that! Haven't seen him for ages, so glad to meet him again.\r\nLily: Will you arrange it all?\r\nHenry: Sure. But get prepared: he has aged. Quite visible now.\r\nLily: But not mentally I hope?\r\nHenry: No, intellectually not at all. But there's this sadness around him. An air of depression.\r\nLily: We'll cheer him up. If only for a day. Have to finish now.  Cheers!"
+  },
+  {
+    "id": "13682379",
+    "summary": "According to Brian, colors that match Linda's personality are yellow and grey.",
+    "dialogue": "Linda: I'm going to have my room painted\r\nLinda: Can't decide what colors would best express my personality\r\nLinda: I'm considering advices, do you have one for me maybe? :)\r\nBrian: Fitting your personality... hmm\r\nBrian: I consider you an enthusiastic and lively person and the color for it is yellow\r\nBrian: On the other hand you can be calm and steady and they say those qualities are expressed in greyness\r\nBrian: So yellow & grey, how do you like the idea? :D\r\nLinda: Wow, I'm impressed!\r\nLinda: You've just paid me a compliment and come up with interesting colors!\r\nBrian: Well, those are actually facts :)\r\nBrian: Are you going to make use of the colors?\r\nLinda: Actually, I was planning to ask a few friends and then sum all the ideas up\r\nLinda: But now I think I don't need to do any further research\r\nLinda: Asking you for help was a bull's-eye! :D\r\nBrian: Perfection! :D\r\nBrian: I'll come and check the results of your work soon, it'll be a nice chance for us to talk :)\r\nLinda: Sure, feel invited!"
+  },
+  {
+    "id": "13682313",
+    "summary": "Jimmy is going to take medication for a month to cure his acute gastritis.",
+    "dialogue": "Juliette: So what? Tell me\r\nJimmy: One minute\r\nJuliette: What did the doctor say? \r\nJimmy: It's almost finished, wait a second\r\nJuliette: Is it so serious? Should I be afraid?\r\nJimmy: OK, just finished\r\nJuliette: So, tell me, I can't wait longer\r\nJimmy: Acute gastritis\r\nJuliette: What's that?\r\nJimmy: Acid attacks in the stomach\r\nJuliette: It's not a cancer?\r\nJimmy: No, it's not\r\nJuliette: Is this sure?\r\nJimmy: Yes, darling\r\nJuliette: You're not lying to me ?\r\nJimmy: No, darling, please believe me\r\nJuliette: And how can we cure this?\r\nJimmy: Just a few tablets for a month and that should be enough\r\nJuliette: I'm so glad it's not a cancer\r\nJimmy: :000\r\nJuliette: I love you\r\nJimmy: Me too"
+  },
+  {
+    "id": "13730056",
+    "summary": "Peter will be back home in 2 days. Mary would like to go on a date when he gets back.",
+    "dialogue": "Mary: Hi <3\r\nPeter: Hey gorgeous ;)\r\nMary: What's up\r\nPeter: Not much, jsut thinking about you \r\nMary: Aww I miss you so much :(\r\nPeter: I know baby but ill be back home in 2 days. The we can do whatever you want :*\r\nMary: Whatever I want, huh? 3:)\r\nPeter: ;)\r\nMary: I was actually hoping to cash in on that raincheck :) We haven't been on a date for quite a while... :/\r\nPeter: I'ld like that :)\r\nMary: :)"
+  },
+  {
+    "id": "13728383",
+    "summary": "Neither Francesca nor Jacob can sleep. Jacob has suicidal thoughts. ",
+    "dialogue": "Francesca: It's 3 a.m. You're not asleep yet\r\nJacob: What a stalker ;-)\r\nFrancesca: :D \r\nFrancesca: I cannot sleep\r\nJacob: Me neither\r\nFrancesca: Why?\r\nJacob: I just can't. Thinking about stuff\r\nFrancesca: Me too\r\nFrancesca: Sometimes I wish I didn't think that much\r\nJacob: What were you thinking about?\r\nFrancesca: My mum, school, you...\r\nJacob: Me?\r\nFrancesca: I seen you've been sad recently \r\nJacob: Maybe you're right\r\nJacob: What about your mum?\r\nFrancesca: I cannot understand\r\nFrancesca: Why did she do it??\r\nFrancesca: Why would anyone want to kill themselves?\r\nJacob: I could understand...\r\nFrancesca: Are you serious? Do you have these thoughts?\r\nJacob: Sometimes\r\nFrancesca: Please don't... I beg you, don't do it..."
+  },
+  {
+    "id": "13715767",
+    "summary": "Ted has twisted his ankle.",
+    "dialogue": "Ted: Feeling sorry for.. myself! \r\nKelly: What’s happened? Are you ok?\r\nTed: I’ve twisted my ankle \r\nMike: what have you done?\r\nVictoria: bless you! x\r\nOliver: too much to drink?\r\nRob: all the best!\r\nKelly: get well soon!\r\nMary: oh dear! xxx\r\nTed: cheers guys! "
+  },
+  {
+    "id": "13729983",
+    "summary": "Julie recommends the GlamRock cream from the GlamShop. Chloe got the money early so she can pay back Julie. Julie and Jake are getting the dog so they need the money for extra dog-related expenses.",
+    "dialogue": "Chloe: Hey, you told me about this cream that you find really good\r\nJulie: Ehhm yea, GlamRock\r\nChloe: Where did you buy it?\r\nJulie: Online, there’s a shop called a GlamShop\r\nChloe: Cool, thanks\r\nJulie: You said you’re broke now and not going to buy anything\r\nChloe: I got money earlier than expected ^^\r\nJulie: Oh I get it. So will you give me back the money I borrowed you?\r\nChloe: Ah ofc, sending it right away\r\nJulie: Thanks, will help me a lot :)\r\nChloe: Sth wrong? O.o\r\nJulie: Noo haha but me and Jake, we want to get a dog and there’s going to be a lot of costs, vet, vaccination, trying different types of food etc\r\nChloe: A dog, cool, which breed?\r\nJulie: We just want to take some poor animal from the shelter, so it’s whatever. We want it to be big ;p\r\nChloe: That’s so sweet of you! Yea you have a big house, you can have a big dog ^^\r\nJulie: Many kids would fit in as well, but my husband’s not interested -_-\r\nChloe: Seriously O>O\r\nJulie: He keeps saying that we need to wait until we pay more of our debts and that sort og stuff\r\nChloe: Well, you never complain about money, youhave a big house, looks like you can afford kids!\r\nJulie: I thinks so too, but he doesn’t agree ;/\r\nChloe: Just stop taking pills, he’ll have no choice ;)\r\nJulie: That would be cruel xD"
+  },
+  {
+    "id": "13828128",
+    "summary": "Teddy has a message from Pitt on Messenger.",
+    "dialogue": "Pitt: Hey Teddy! Have you received my message?\r\nTeddy: No. An email?\r\nPitt: No. On the FB messenger.\r\nTeddy: Let me check.\r\nTeddy: Yeah. Ta!"
+  },
+  {
+    "id": "13731319",
+    "summary": "Mary didn't come to Nick's birthday party. She met an architect named Kirk. Mary and Nick will meet in the evening.",
+    "dialogue": "Mary: Sorry, I didn't make it to your bday party :(\r\nNick: It's OK...\r\nMary: But I just got SOOO distracted! I forgot it was yesterday!\r\nNick: do tell!\r\nMary: I met this guy...\r\nNick: REALLY? I want details :D\r\nMary: Yeah, his name is Kirk and he's an architect...\r\nNick: OK, just your type then <file_gif>\r\nMary: And we ended up spending the whole week together. xD\r\nNick: A WEEK?\r\nMary: Yeah... It's madness, I'll tell you more this evening. Are we still on?\r\nNick: You bet we are!"
+  },
+  {
+    "id": "13819305",
+    "summary": "Connor will not attend the meeting, he has to rest. Isaiah never wanted to go.",
+    "dialogue": "Connor: I'm too tired to come to the meeting I think\r\nJade: decided?\r\nIsaiah: I didn't even have intention to go there really\r\nConnor: Yes, I'm going to bed"
+  },
+  {
+    "id": "13813481",
+    "summary": "Samara bought the dress she had at the wedding in an online shop and she was happy when she discovered it.",
+    "dialogue": "Karen: Where'd you buy this dress you had at the wedding?\r\nSamara: Oh, from an online shop\r\nSamara: Hold on\r\nSamara: <file_other>\r\nSamara: That's the one\r\nKaren: Wow thanks\r\nSamara: Youre welcome!\r\nKaren: Oooh, they have some neat stuff there\r\nSamara: Yeah, I was so happy when i disovered it\r\nSamara: There's few places where I shop regularly, most of the time I'm kind of all over the place\r\nKaren: Same here\r\nSamara: But I've already bought several skirts and blouses from this shop too, so I'll probably become a more frequent customer ;)"
+  },
+  {
+    "id": "13715772",
+    "summary": "Mary, Kate, Peter and John want various items for Christmas. Gabi wants a surprise. Jack is unsure what he wants. Jack should let the rest know within a week. ",
+    "dialogue": "Gabi: What do you guys want for Christmas? Let's say up to $100.\r\nJack: I need to think about it...\r\nMary: I want cosmetics. I wouldn't say no to some good skin care.\r\nKate: I dream about a Kindle!!\r\nGabi: How about the rest?\r\nJack: How about yourself?\r\nGabi: I want a surprise gift. I think you all know me quite well. \r\nPeter: I need a set of drills. Later I'll pass you the Amazon link.\r\nJohn: I want new sneakers. Size 10.\r\nJack: It seems you all thought it through.\r\nJohn: We do it every year. I was thinking about my gift already in September :D\r\nJack: That's early! LOL\r\nJack: Until when should I let you know?\r\nGabi: In about a week we should all know so we have enough time for online orders etc."
+  },
+  {
+    "id": "13828719",
+    "summary": "Jeff will double check Mindy's reaction, connected to her involvement in phase one of the project.",
+    "dialogue": "Daniel: Hi Jeff, I was just browsing thought your notes from yesterday and I have a couple of questions.\r\nJeff: Shoot :)\r\nDaniel: Was Mindy there?\r\nJeff: Yes, she was.\r\nDaniel: Could you please add her input on the first presentation? She must have said something since she's involved in phase one of the project\r\nJeff: Actually, she didn't react that much\r\nDaniel: like not at all?\r\nJeff: Wait a sec, let me double check"
+  },
+  {
+    "id": "13611954-1",
+    "summary": "Client informs Flix about a 40 minutes delay of the bus from Radom to Warsaw. Flix explains that this is an operational delay. Client decides to make a formal complaint as it wasn't the first such delay.",
+    "dialogue": "Client: Good afternoon. I suggest you adjust the timetable to the reality on the Polish roads. P6 bus Radom - Warsaw, arriving from Cracow, 40 minutes delay.\r\nClient: And it was not the first time, there was one hour delay not so long ago...\r\nFlix: Hi Marta. We are very sorry that the bus arrived late, but they are operational delays which we have no control over. Apologies.\r\nClient: But this happens too often. Why don't you consider rearranging the timetable??\r\nClient: I was waiting at the station from 17.10, hoping to get the bus at 17.25. It arrived at 18.10. One hour waiting.\r\nClient: It hardly ever happens that the bus arrives on time. The timetable is too optimistic. I understand there are traffic jams but...\r\nFlix: Thank you for the information, we will inform our managers about it.\r\nClient: Can I make a formal complaint? I had a similar situation last year.\r\nFlix: Sure, you can send a complaint by email to info@flix.com. \r\nClient: thanks, I will definitely. But I really hope you do something about it this time...\r\nFlix: yes, all complaints are addressed by our managers.\r\nClient: great. They should not just read them, but do something about it. Will you inform me about the status?\r\nFlix: We don't do that automatically, but you can call us and find out. You can find all the necessary info on our website. \r\nClient: Ok, I see.\r\nFlix: Once again apologies."
+  },
+  {
+    "id": "13865453",
+    "summary": "Jeff, Ann, Corina, and Maria are going to hike tomorrow. Jeff reminds everyone to take good shoes, because they are going to walk over 20 km. Jeff, Ann, Corina, and Maria will take a bus on the way back at 5 PM.",
+    "dialogue": "Jeff: Are you ready for the hiking tomorrow?\nAnn: I've just packed\nCorina: is it going to be very difficult\nJeff: this track is quite heavy\nJeff: so please, take good shoes\nMaria: sure, how long is the track?\nJeff: about 20km\nJeff: let me check it\nMaria: thanks\nJeff: 21,3 km\nMaria: but it's only to the lighthouse?\nJeff: yes\nMaria: so we have to take a bus back\nJeff: I think so, to walk back would be too tiring\nCorina: and too boring\nCorina: doing the same way again\nJeff: true\nJeff: so I'll check the busses\nAnn: great\nJeff: yes, there is one at 5PM\nMaria: just perfect!\nJeff: :)"
+  },
+  {
+    "id": "13864440",
+    "summary": "Joyce and Andrew are running late. Carla and Anette are on their way. Helen is at a table by one of the windows at the front.",
+    "dialogue": "Joyce: Guys, sorry I'm running late today! Will be there soon\nAndrew: I’m a wee bit late too but will be there before 8! Leaving soon\nCarla: On my way, with sipke😀\nAnette: On the way kids\nAnette: In the first here wtf\nHelen: Where are yall\nHelen: Annette are you here?\nHelen: I'm at a table by one of the windows at the front!"
+  },
+  {
+    "id": "13817541",
+    "summary": "Mia hasn't subscribed to Aiden's channel yet but she wants to. Aiden has been working on it for 6 months.",
+    "dialogue": "Aiden: Have you subscribed my channel?\r\nMia: Nop I havent \r\nAiden: :/\r\nMia: Whats the name?\r\nAiden: Tuberflicks\r\nMia: Send me the link\r\nAiden: wait\r\nMia: k\r\nAiden: <file_link> Here you go\r\nMia: It has pretty much grown now\r\nAiden: Yeah it is\r\nMia: Since when have you been working on it?\r\nAiden: Its been 6 month now\r\nMia: wow"
+  },
+  {
+    "id": "13864732",
+    "summary": "Oli, Jacob and Marcia have to prepare for a very hard statistics exam. Last year, people had only one minute to answer each question and then it disappeared.",
+    "dialogue": "Oli: I've talked to some people from the third year\nJacob: About the statistics exam?\nMarcia: What did they say?\nOli: Yeah, about the exam\nOli: We need to prepare for a battle\nJacob: So it will be difficult\nOli: They said it was the hardest exam ever\nMarcia: 😱\nOli: The questions were displayed on the screen \nOli: One minute per question and it disappears\nOli: They won't come back so if you didn't get your answer you're fucked\nMarcia: So we need to make the calculations really fast\nJacob: That's insane\nOli: I know\nOli: Very stressful\nMarcia: How are we even supposed to study for it?\nMarcia: With a timer?\nOli: I guess\nMarcia: Did anybody pass it last year\nOli: Some people did, but the majority had to take the second or even the third chance"
+  },
+  {
+    "id": "13680485",
+    "summary": "Blake believes that Alexis is trying to turn their son, Steven, against him and has bad influence on Steven. Alexis believes Blake is self-centered and often attacks her and accuses her of things she didn't do.  ",
+    "dialogue": "Blake: Why did you tell Steven all those stupid things?\r\nAlexis: What things?\r\nBlake: That I did not want him. It's just not true and you know it.\r\nAlexis: I remember things differently, sorry.\r\nBlake: You're his mother, I cannot cut you from him, but I really believe you have a terrible influence on him.\r\nAlexis: I would rather say it about you.\r\nBlake: Please, stop. I've taken so much care of him in the last years and I always avoid talking with him about you.\r\nAlexis: Why should you avoid the topic? Is it better to pretend I do not exist?\r\nBlake: Nobody pretends that, but I don't want to drag him into our games. Your games, actually.\r\nAlexis: I don't know why I am still talking to you. You keep insulting and accusing me.\r\nBlake: I'm just trying to stop you from destroying our son's life.\r\nAlexis: I am his mother, I know what's good for him.\r\nBlake: No, you're using him for your stupid games against me.\r\nAlexis: You're really unbelievably self-centred.\r\nBlake: Alexis, it's not possible to talk to you any more. You're either aggressive or defensive. There is no discussion.\r\nAlexis: Try not to attack me first. This is a natural reaction to an attack of every human being, of every living creature actually. \r\nBlake: I tried to discuss how we are managing our relations with our son. Was it an attack?\r\nAlexis: No, you attacked me saying I told something to Steven that you apparently didn't like. But you will nor censor me. This time is over.\r\nBlake: For God's sake! \r\nAlexis: I've had enough. I am coming back to my work now. There is more in this world than your huge ego. Bye!"
+  },
+  {
+    "id": "13828302",
+    "summary": "Roberta found Makoto's dress and will send it to Makoto on Friday.",
+    "dialogue": "Roberta: <file_photo>\r\nRoberta: look what I found!\r\nMakoto: my dress!\r\nRoberta: you must have left it when you were visiting this summer\r\nMakoto: could you send it to me?\r\nRoberta: sure, I'll do so on Friday :)"
+  },
+  {
+    "id": "13680126",
+    "summary": "When Eleanor meets Sawyer, she will be wearing a slightly transparent black robe. Sawyer would like Eleanor to take a picture of herself in the robe, but the transparency is not visible on photos.",
+    "dialogue": "Sawyer: I hope I found you wrapped in a towel when you open the door\r\nEleanor: No... I will be wearing sexy short black robe instead which is a little bit transparent\r\nSawyer: It must be fully transparent then\r\nEleanor: I'm general it is but it's black\r\nSawyer: Hmmm Would you ever send me a photo of you wearing it ?\r\nEleanor: When I take a shower and then I put it i always have to have underwear also. If not my flatmates would see what I have under the robe xd\r\nEleanor: In the photo u can't see anything. Since last time I sent u a photo in it xd hahaha\r\nSawyer: Hahaha and what if you take the photo when you're alone. So that only you and me can see\r\nEleanor: But in the picture u can't see that it's transparent. U need to come here :)\r\nSawyer: Maybe take a better one ?\r\nEleanor: I can't\r\nSawyer: Haha and your new phone will take better pictures\r\nEleanor: The robe is a little bit transparent, :) so it's not possible that in the pic it will be visible\r\nSawyer: Ok no worries"
+  },
+  {
+    "id": "13865216",
+    "summary": "Sam will be 30 minutes late. Sandra and Staś will start without Sam.",
+    "dialogue": "Sam: I'm so sorry. I can't make it on time.\nSandra: Should we start without you?\nSam: Please do. I'll be 30 min late.\nStaś: Ok"
+  },
+  {
+    "id": "13731409",
+    "summary": "Sam got her first credit card.",
+    "dialogue": "Sam: I just got my 1st credit card!\r\nTom: Well, congrats and sorry!\r\nSam: Y sry?\r\nTom: Aren't u afraid of getting into debts?\r\nSam: No, not really. Should I be?\r\nTom: I think u should."
+  },
+  {
+    "id": "13727597",
+    "summary": "James's girlfriend made him put the trash bin near the kitchen window outside so she can throw things out of the window.",
+    "dialogue": "James: <file_video>\r\nJames: My girlfriend is so creative :D\r\nFred: Hahha. LOL\r\nJames: She  made me put the trash bin near the window outside\r\nJames: So that she doesn't have to go outside and walk around the house to take out garbage\r\nJames: She just opens the kitchen window and done\r\nFred: If it's stupid but it works...\r\nJames: It ain't stupid haha I know :D\r\nFred: Congratulate her from me :D\r\nJames: I will xD"
+  },
+  {
+    "id": "13716473",
+    "summary": "To Christopher's frustration, Matthew, Andrew and David refuse to go abroad for the weekend.",
+    "dialogue": "Christopher: ok, people, I’ve got an idea\r\nMatthew: hmm?\r\nChristopher: let’s go abroad for the weekend 😀 tickets are cheap enough and I don’t know about you, but I’m bored. massively bored.  \r\nAndrew: I’m out, guys… I just can’t leave Ann alone with the baby, sorry \r\nChristopher: Matthew, David? what about you?\r\nMatthew: I’m working this weekend 😕 \r\nDavid: well, if they can’t then I’m out as well \r\nChristopher: i hate you guys"
+  },
+  {
+    "id": "13727770",
+    "summary": "Francine and Jessie talked yesterday. The talk has been helpful for Jessie. Francine says she's always there for Jessie. Jessie is very thankful.",
+    "dialogue": "Francine: hey hon\r\nFrancine: how are you today?\r\nFrancine: I hope our talk yesterday helped a bit\r\nJessie: hiya \r\nJessie: i'm still pretty overwhelmed \r\nJessie: but I was able to calm down a little after we spoke\r\nJessie: thank you for checking up on me <3\r\nJessie: a lot of people just don't know what to say, so they don't call...\r\nFrancine: I'm always here if you need me\r\nFrancine: that's what friends are for <3\r\nFrancine: seriously, whenever you need, just call me\r\nJessie: 😭😭😭\r\nJessie: thank you <3\r\nFrancine: anytime <3"
+  },
+  {
+    "id": "13821815",
+    "summary": "Maria has cooked a lot of food. Andrew will bring some Italian wine.",
+    "dialogue": "Maria: Guys, don't bring anything, I've cooked so much\r\nAndrew: We will bring some wine we bought in Italy last year\r\nMartha: Especially for a night like this\r\nMaria: How nice of you!! thanks"
+  },
+  {
+    "id": "13865139",
+    "summary": "Richard took Hannah's parking spot again. Anne saw it.",
+    "dialogue": "Hannah: The motherfucker took my spot again\nPamela: Richard?\nAnne: I saw him parking... "
+  },
+  {
+    "id": "13680779",
+    "summary": "Sophie doesn't know what to buy for a gift. She wants Monica's help. She is considering buying a day spa gift card. Monica is bad at buying gifts.",
+    "dialogue": "Sophia: What should I get them?\r\nMonica: How should I know?\r\nSophia: come on help me out\r\nMonica: I dont know really Im bad at buying gifts\r\nSophia: maybe some day spa gift card\r\nMonica: maybe\r\nSophia: youre not really helpful :P\r\nMonica: Told ya... bad at gifts"
+  },
+  {
+    "id": "13729889",
+    "summary": "Nicki is going to sing the anthem at the game.",
+    "dialogue": "Yannick: I heard you are going to sing the anthem\r\nYannick: At the game\r\nNicki: Yes I am \r\nNicki: I am nervous! \r\nYannick: Dont be\r\nYannick: It's a huge privilege to sing the anthem in front of thousands of people!\r\nNicki: I hoep I won't forget the lyrics\r\nNicki: hope* \r\nYannick: Youre a great singer\r\nYannick: You will be fine \r\nNicki: I have to rehearse \r\nYannick: Your parents coming with you?\r\nNicki: Yes\r\nYannick: They're probably proud of you good luck! \r\nNicki: Thank you Yannick"
+  },
+  {
+    "id": "13715995",
+    "summary": "Christmas is coming. Chloe will buy Carter new socks as he wears them unmatched. Victoria bought herself a new piece of gold equipment.",
+    "dialogue": "Carter: <file_photo> Sure it's nearly Christmas, right Chloe!?!\r\nChloe: Yes so it's time I bought you new socks ha\r\nCarter: Socks serve the purpose of keeping your feet warm, why do they have to be the same 😉\r\nVictoria: I gave up for the second dive today. Felt like Christmas under there... and to cheer me up I bought myself a new shiny piece of gold equipment....so.....definitely Christmas! Love the unmatched socks 😍🤙🏼🤙🏼"
+  },
+  {
+    "id": "13862502",
+    "summary": "Ammalee sent Maryann a photo of her nails that lasted over a month. Maryann will try Acrylic instead Linen on Ammalee's nails next time. Ammalee will send Maryann a photo of a design that she would like to have on her nails.",
+    "dialogue": "Ammalee: <file_photo>\nAmmalee: This lasted over a month.♪┏(・o･)┛♪┗ ( ･o･) ┓\nAmmalee: Could you recommend other styles? (?_?)\nMaryann: Ah! Hello Ma’am! Thank you for the good review! (＾▽＾)\nMaryann: Is there any style you want to do next time?\nAmmalee: Yes, I heard about Acrylic nails and Linen. Which one would be better? (´∀`)\nMaryann: If you want the nails to last longer I recommend you Acrylic rather than Linen. ✌️\nMaryann: If you have any design in your mind, send me pictures. ☺️☺️☺️\nMaryann: Then I could try them on your nails next time!!(^^)!!(^^)!!(^^)!\nAmmalee: Thanks, I will send you some pictures soon!"
+  },
+  {
+    "id": "13828775",
+    "summary": "Alan is making his famous chicken wings and would like Joan to be home by 7. Joan won't make it as she is studying with Laura.",
+    "dialogue": "Alan: sweetie when wil you be home?\r\nJoan: I'm studying with Laura after classes Dad\r\nAlan: will you be home by 7?\r\nAlan:  I'm making my famous chicken wings :)\r\nJoan: dad my grades are important aren't they?\r\nAlan: more important than my wings?\r\nAlan: I'm hurt :D joking. study away!"
+  },
+  {
+    "id": "13731314-1",
+    "summary": "Johny wants to go out clubbing with Luke in order to meet a female partner. Luke has plans but he advises Johny to install Tinder. Luke critisizes Johny for speaking about women without much respect.",
+    "dialogue": "Johny: That girl on Tuesday music video is sexy as fuck\r\nLuke: <file_video>\r\nLuke: This Tuesday?\r\nJohny: The main chick is worth breaking the rule of no-nut november\r\nLuke: Johny please find yourself a chick.\r\nLuke: fall for her\r\nLuke: Love her with all your heart\r\nLuke: And stop talking like an asshole\r\nJohny: Man, it's just a joke\r\nJohny: I have respect towards women\r\nJohny: At least when they deserve it :D\r\nLuke: Everyone deserces some respect bruh\r\nJohny: I know man, I'm just kidding LOL\r\nLuke: I know man, I'm just messing\r\nJohny: You feel like clubbing tonight?\r\nJohny: You could be my wingman xD\r\nLuke: <file_gif>\r\nJohny: What's with this facepalm?\r\nLuke: Get yourself Tinder and start hunting\r\nJohny: Hahaha. xD\r\nJohny: I undestand you don't wanna go? \r\nLuke:  I've got plans for tonight\r\nLuke: So another time mate\r\nJohny: Chill. Another time"
+  },
+  {
+    "id": "13611794",
+    "summary": "Rosie is on her way to meet Frank and will have to find him at Sports Direct.",
+    "dialogue": "Frank: Hi Peter has brought me to Sports Direct store at the top of \r\nRosie: Ok thanks will look out for you there\r\nFrank: We are on the ground floor\r\nRosie: ok\r\nFrank: Outside Morrisons\r\nRosie: On my way\r\nFrank: We might be upstairs later so look there too\r\nRosie: ok I will - see you soon xxx"
+  },
+  {
+    "id": "13828614",
+    "summary": "Kyle reminds Patrick about their math homework for tomorrow.",
+    "dialogue": "Kyle: hey u got maths homework?\r\nPatrick: um.. not yet :D\r\nKyle: hahaha what do you mean not yet\r\nKyle: it's for tomorrow\r\nKyle: i just reminded you didn't i hahahah\r\nPatrick: XD\r\nKyle: well good luck then\r\nPatrick: tx xD guess i'm gonna need it XD"
+  },
+  {
+    "id": "13680746",
+    "summary": "Ellen and Paul are doing the redecoration and it takes a lot of time. They want to finish it by Christmas but workers are permanently late. Kate is looking forward for the housewarming party.",
+    "dialogue": "Ellen: Hi, honey, sorry I've been so unreachable lately, the redecoration is a nightmare.\r\nKate: Don't worry, sweetie, what's wring with the redecoration?\r\nEllen: Well, nothing's wrong per se, it's just it's taking so much time, I barely sleep nowadays...\r\nKate: Isn't Paul helping you?\r\nEllen: He's trying the best he can, but you know how men can be, he doesn't know what goes with what and I wouldn't trust him with our kitchen floor tiles...\r\nKate: Oh, you're right. It's always women who take care of the aesthetics of it all... And they say we're only good in the kitchen. :D \r\nEllen: Well, the kitchen is going to be spectacular so that part is true enough, LOL xD\r\nKate: Can't wait to see it. When are you finishing?\r\nEllen: I hope it will be ready by Christmas, but the workers are permanently late.\r\nKate: Oh yes, one of their many 'qualities'... :D\r\nEllen: Not that I don't like a beer now and then, but for Christs sake, they leave beer cans EVERYWHERE. How are they working if they're always tipsy?!\r\nKate: Steady hand, they say, hahaha\r\nEllen: Steady hand my ass, if they damage anything, I'm gonna kill them.\r\nKate: LOL\r\nEllen: Yeah, so to answer your question, the redecoration could go better but I'm counting on it to finish as quickly as possible.\r\nKate: Keeping my fingers crossed, hun and I can't wait for the housewarming party.\r\nEllen: You'll be the first to know! "
+  },
+  {
+    "id": "13819839",
+    "summary": "Paola and her friends are going to the theatre El Rincón de Sánchez on Friday. They are going to see a play about Serbian family just after the war in Yugoslavia. Nicola and Austin will go to the theatre together. They will eat empanadas on their way.",
+    "dialogue": "Paola: Guys, as I was saying I’d like to take you to the theatre. There’s a very good play this Friday and I can totally get you free tickets if you’re interested\r\nPaola: It’s about this Serbian family just after the war in Yugoslavia. It’s been a hist for a few years now and I’m happy to see they’re back on stage this season as well\r\nPaola: I’ve seen the play a few years ago and actually wrote a review of it, but would be happy to go with you and know what you think of it\r\nAustin: Oh wow that sounds great! Ofc I wanna go\r\nNicola: Me too! Hope it’s after 6 pm?\r\nPaola: @Nicola, yes, it’s at 8.15\r\nPaola: The theatre is called El Rincón de Sánchez <othre_file>\r\nPaola: We can meet there\r\nAustin: Sounds good. Nicola, would you like to go together? These long, lonely journeys on the bus are soooo boring\r\nNicola: Ha ha, sure, I bet we can have a nice chat, especially if we actually walk a little bit. I’d suggest meeting at the entrance to the Alto Palermo shopping mall and walking from there\r\nAustin: Can I ask if it’s safe? 🙊\r\nNicola: Yeah, I do think so\r\nAustin: Splendid, let’s meet at the entrance to the Alto Palermo at 7.30 then\r\nNicola: Cool, just to make sure, I mean this entrance: <file_other>\r\nAustin: 👍\r\nAustin: Oh wait, will you have eaten? Perhaps we can grab a pizza or something\r\nNicola: I’ll be coming straight from work so it sounds like the perfect plan\r\nNicola: What do we have nearby\r\nAustin: There’s actually this place which sells empanadas which are not that bad just where we’re meeting. Not a grand dinner but enough for me\r\nNicola: Yer, that would do. Let’s just meet at 7:15 in case there are many people in the line or you happen to prefer to eat the empanadas while standing rather than walking 😹\r\nAustin: Lol sounds perfect\r\nPaola: I’ll see you at the theatre then. There’s nowhere to wait outside, so I’ll be waiting for you in the hall if that’s ok\r\nAustin: Totally\r\nPaola: See you soon then\r\nNicola: Yep. Byeeee!"
+  },
+  {
+    "id": "13865472",
+    "summary": "Vincent and Charlotte are studying in the cloister today. Harriet and Ben will go to the library. ",
+    "dialogue": "Harriet: Where are you?\nVincent: In the cloister\nCharlotte: we're studying here today\nCharlotte: join us, we're waiting for Ben as well\nHarriet: It's too cold for me there\nBen: I agree\nHarriet: I'll go to the library\nBen: I'll join Harriet"
+  },
+  {
+    "id": "13716468",
+    "summary": "Stu is on channel 6 now.",
+    "dialogue": "Hyatt: watch channel 6 now\r\nNickleby: whats on?\r\nHyatt: ah i see is that Stu?\r\nPalin: himself!\r\nNickleby: couldnt miss it :)"
+  },
+  {
+    "id": "13810089",
+    "summary": "Jessie and Leo will hang out at the weekend, but Jessie has to come up with a place first. ",
+    "dialogue": "Leo: hey jess\r\nJessie: hey\r\nLeo: so what're u doing this weekend\r\nJessie: yea let me have a look at my tight schedule -_-\r\nLeo: yea who am i kidding. you're always free\r\nJessie: so what up\r\nLeo: we could maybe go out\r\nJessie: is it YOU who's asking\r\nLeo: what does that mean\r\nJessie: its always me coming up with the ideas\r\nLeo: yea right\r\nJessie: it is right\r\nLeo: so?\r\nJessie: so i am right\r\nLeo: i mean what do you think\r\nJessie: oh you mean for the weekend\r\nLeo: yea\r\nJessie: yea okay, cool\r\nLeo: btw.. you still have to come up with a place to hangout xD\r\nJessie: see.. ._. always\r\nLeo: it was my idea tho XD\r\nJessie: WOW -_-"
+  },
+  {
+    "id": "13730151",
+    "summary": "Irma doesn't play tennis. John and Irma will enroll in tennis class at the community center.",
+    "dialogue": "John: do you play tennis? :-)\r\nIrma: i don't, why do you ask?\r\nJohn: you look like someone who plays tennis\r\nIrma: HAHAHAHA i'm literally loling\r\nIrma: i don't know what someone who plays tennis looks like\r\nJohn: hahah sorry that was a dumb comment\r\nJohn: anyway, would to enroll in a class with me?\r\nJohn: they're dirt cheap at the community center\r\nIrma: sounds good, i can wear one of my tennis outfits!!\r\nIrma: HAHAHA, i'm still laughing at your comment  lol"
+  },
+  {
+    "id": "13682432",
+    "summary": "Jack has to find Olivia in carriage 3, because she has their tickets.",
+    "dialogue": "Jack: Where are you? I can't find you.\r\nOlivia: carriage 3!\r\nJack: I'm in 15 I believe :/ it's so crowded\r\nOlivia: But slowly you can get through.\r\nJack: I am not sure, there are people sitting, staying, puking everywhere. It's a mess\r\nOlivia: C'mon, it's a busy weekend\r\nJack: I already hate this trip.\r\nOlivia: Just don't make a drama, come here.\r\nJack: Do you have the tickets? I can't find mine.\r\nOlivia: I have both of them, so you have no choice anyway. You should come here asap :P"
+  },
+  {
+    "id": "13681293",
+    "summary": "Lionel is in a meeting and can't talk.",
+    "dialogue": "Pete: Sup?\r\nLionel: I'm at a meeting, can't talk.\r\nPete: OK, sorry."
+  },
+  {
+    "id": "13681024",
+    "summary": "Will gived Rob the number of the car mechanic who fixed Will's father's car.",
+    "dialogue": "Rob: need a car check, u know a good mechanic?\r\nWill: yeah, I have someone who fixed my fathers car\r\nRob: you mean that shit on wheels?\r\nWill: now it's like an arrow\r\nRob: than it's not a mechanic but a magician\r\nWill: well, kind of :D I'll give u a number\r\nRob: great\r\nWill: u can say that I send u\r\nRob: thanks buddy"
+  },
+  {
+    "id": "13716734",
+    "summary": "Andrew, Nicky and Rick had a hard week at work. They just want to rest and do nothing. Andrew has a new project next month, and now he just wants to sleep and see kids.",
+    "dialogue": "Andrew: wow, weekend! finally!\r\nAndrew: this week's been pretty hard\r\nNicky: yep, it was\r\nNicky: work work work\r\nAndrew: we're starting a new project next month\r\nAndrew: and we do everything at a last moment, as usual ;)\r\nRick: yeah, its always like that\r\nRick: they dont usually plan in advance\r\nNicky: they dont seem to learn their lessons;)\r\nAndrew: thats the point\r\nAndrew: anyways, I hope to have a good rest\r\nRick: yeah, me too!\r\nNicky: Im just gonna do nothing!\r\nNicky: :D\r\nRick: good idea!\r\nAndrew: Me too, I really need a break\r\nAndrew: sleep, in the first place\r\nAndrew: see kids\r\nRick: ok take care guys!\r\nNicky: talk to U later!"
+  },
+  {
+    "id": "13731380",
+    "summary": "Olivia doesn't know how to caption the photo she wants to put on Instagram. Taylor gives Olivia some hints.",
+    "dialogue": "Olivia: hey\r\nTaylor: whats up?\r\nOlivia: I need your help with something haha \r\nTaylor: yeah?\r\nOlivia: I wanna post a pic on instagram and I have the pic but idk what to caption it lol\r\nTaylor: yeah! what picture ?\r\nOlivia: the one I sent yesterday by the lake? \r\nTaylor: ahhhh yes I love that one its amazing \r\nOlivia: yeah I really like it but Idk what to say haah\r\nTaylor: maybe something like \" Summer Days\" with the sun emoji \r\nOlivia: but is that cheesy? or to basic ahaha\r\nTaylor: nahh I think its ok, or maybe just the emoji and say nothing haha\r\nOlivia: yeah I could do that hahah \r\nTaylor: either way its a nice picture so whatever you say it will be fine\r\nOlivia: trueeee thanks for the help :)))\r\nTaylor: anytime gurlll :DD "
+  },
+  {
+    "id": "13829580",
+    "summary": "Ian and John will meet at St. Monica at 8.00.",
+    "dialogue": "John: Maybe some ride?\r\nIan: Always!!!\r\nIan: When and where?\r\nJohn: St.Monica, at 8.00, ok?\r\nIan: ok!"
+  },
+  {
+    "id": "13728061",
+    "summary": "Ali is coming to Kane to get the hard drive.",
+    "dialogue": "Ali: dude i need that hard drive\r\nKane: come take it\r\nAli: alright be there in a sec\r\nKane: sure.."
+  },
+  {
+    "id": "13680149",
+    "summary": "It's snowing outside.",
+    "dialogue": "Joshua: look out the window\r\nNoah: what's there? XD\r\nJoshua: do it :P\r\nNoah: oh wow\r\nNoah: so much snow :D when did this happen lol\r\nJoshua: :D\r\nNoah: it's definitely time to build a snowman!\r\nJoshua: build an Olaf :d\r\nNoah: ofc i will, he's my idol!\r\nJoshua: XD"
+  },
+  {
+    "id": "13612157",
+    "summary": "Ava doesn't want to talk to Greg any more and she's blocking him on Facebook. ",
+    "dialogue": "Greg: why don’t you answer my calls?\r\nAva: cause I don’t want to talk to you anymore, so leave me the fuck alone\r\nGreg: but we haven’t talked things over yet\r\nAva: and we won’t, because there’s not a fucking thing to talk about\r\nGreg: Ava, please\r\nAva: I’m blocking you on fb. Goodbye Greg ❤"
+  },
+  {
+    "id": "13728974",
+    "summary": "During early lunchtime, Shelly will come to Porter to take a look at wool fall coats which have arrived today. ",
+    "dialogue": "Shelly: I'm looking for a fall coat, are there any good ones in today?\r\nPorter: We got some really nice wool ones in today. Come take a look!\r\nShelly: I will! Be there on my lunch!\r\nPorter: You better take an early lunch, they will go fast!\r\nShelly: Ooh! Okay!"
+  },
+  {
+    "id": "13863020",
+    "summary": "Connor is looking for a playlist from the Berlin concert. Kyle directs him to the band's official Twitter account.",
+    "dialogue": "Connor: hello can you tell me what songs did they play at the gig in Berlin?\nKyle: their official profile tweeted the set list a couple hours ago\nConnor: ok cool thanks\nKyle: cheers"
+  },
+  {
+    "id": "13819450",
+    "summary": "Jeniffer and Brooke're in New York now. They've been also to Connecticut, Massachusetts and Rhode Island. The thing Jeniffer likes the most in America is diversity while in Brooke's opinion it's urban splendor.",
+    "dialogue": "Caleb: How are you guys?\r\nJeniffer: very good, thanks\r\nBrooke: yes, it's very exciting here\r\nCaleb: where are you exactly?\r\nJeniffer: Now in New York!\r\nCaleb: how cool!\r\nCaleb: what have you seen so far?\r\nJeniffer: We've been to Connecticut and Massachusetts \r\nJeniffer: But NYC is the best\r\nBrooke: you forgot about Rhode Island\r\nJeniffer: right, such an important state! :P\r\nBrooke: ;)\r\nCaleb: you see, I knew you would like it\r\nCaleb: what do you like the most?\r\nJeniffer: diversity!\r\nJeniffer: something we don't have in Europe to that extend\r\nJeniffer: you're walking down a street and you hear 15 different languages \r\nBrooke: and everything is exaggerated \r\nBrooke: too big, greater than needed, it's quite fascinating \r\nBrooke: food, buildings, cars, everything\r\nCaleb: I'm glad you enjoy it girls!\r\nBrooke: :*"
+  },
+  {
+    "id": "13716378",
+    "summary": "Max is sorry about his behaviour so wants to meet up with Lucas and Mason. Lucas will let him know. ",
+    "dialogue": "Max: I'm so sorry Lucas. I don't know what got into me.\r\nLucas: .......\r\nLucas: I don't know either.\r\nMason: that was really fucked up Max\r\nMax: I know. I'm so sorry :(.\r\nLucas: I don't know, man.\r\nMason: what were you thinking??\r\nMax: I wasn't.\r\nMason: yea\r\nMax: Can we please meet and talk this through? Please.\r\nLucas: Ok. I'll think about it and let you know.\r\nMax: Thanks..."
+  },
+  {
+    "id": "13862395",
+    "summary": "O'Neill is worried about not having heard from Ted. Ted is fine and is going to send a photo later.",
+    "dialogue": "O'Neill: Is everything ok?\nO'Neill: I didn't hear back from you\nO'Neill: <file_gif>\nTed: Hey\nTed: I have been really busy today\nTed: Sorry..\nTed: Yes everything is fine ;)\nTed: I'll send you a photo later on :)\nO'Neill: Great!! 👏"
+  },
+  {
+    "id": "13611608",
+    "summary": "It's getting cooler in Poland, because winter is coming. Justin hasn't seen the last episode of Game of Thrones yet.",
+    "dialogue": "Tom: How’s the weather in Poland now?\r\nJustin: It’s getting cooler. Ain't no sunshine and winter’s coming 😊\r\nTom: Have you seen the last episode of Game of Thrones?\r\nJustin: Not yet. Can’t wait to see it 😊"
+  },
+  {
+    "id": "13682381",
+    "summary": "Sandra is setting into the new house; her family is happy with it. Then Sandra and Gabby discuss the nature of their men and laugh about their habit of spending time in the garage or a shed.",
+    "dialogue": "Gabby: How is you? Settling into the new house OK?\r\nSandra: Good. The kids and the rest of the menagerie are doing fine. The dogs absolutely love the new garden. Plenty of room to dig and run around.\r\nGabby: What about the hubby?\r\nSandra: Well, apart from being his usual grumpy self I guess he's doing OK.\r\nGabby: :-D yeah sounds about right for Jim.\r\nSandra: He's a man of few words. No surprises there. Give him a backyard shed and that's the last you'll see of him for months.\r\nGabby: LOL that describes most men I know.\r\nSandra: Ain't that the truth! \r\nGabby: Sure is. :-) My one might as well move into the garage. Always tinkering and building something in there.\r\nSandra: Ever wondered what he's doing in there?\r\nGabby: All the time. But he keeps the place locked.\r\nSandra: Prolly building a portable teleporter or something. ;-)\r\nGabby: Or a time machine... LOL\r\nSandra: Or a new greatly improved Rabbit :-P\r\nGabby: I wish... Lmfao!"
+  },
+  {
+    "id": "13864991",
+    "summary": "Nina will join Tim and Alice in the main room.",
+    "dialogue": "Nina: Where are you?\nTim: in the main room\nAlice: me too, come and join us\nNina: ok!"
+  },
+  {
+    "id": "13728335",
+    "summary": "Esme is furious about Jason not inviting her to the party. Summer can't understand his behavior.",
+    "dialogue": "Esme: Did I tell you what happened last weekend?\r\nSummer: Not really.\r\nSummer: I mean you mentioned you went to visit Jason and there was a party\r\nEsme: Exactly\r\nEsme: He was having a party and he didn’t even invite me\r\nEsme: How sick is that\r\nEsme: The entire band was there\r\nEsme: Robert, Tom, Amy and Steve\r\nEsme: But he didn’t even bother to invite his girlfriend…\r\nSummer: That’s crazy\r\nSummer: Why would he do that?\r\nEsme: I don’t know.\r\nEsme: I got so furious. I broke all of his plates. "
+  },
+  {
+    "id": "13727724",
+    "summary": "Mike will repay the money he owes Jake on the 8th. Mike had to pay the rent so he borrowed money from his parents.",
+    "dialogue": "Mike: I owe you one!\r\nJake: Actually, u owe me 200 :P\r\nMike: I'll pay u back as soon as I can.\r\nJake: Which is?\r\nMike: Well, I should get my paycheck on the 7th, so probably on the 8th.\r\nJake: No problem. \r\nMike: Thanks again. I don't know what happened to the cash I had set aside for this. \r\nJake: Don't worry about it. Last month I had to borrow some money from my parents.\r\nMike: Same situation?\r\nJake: More or less. Was behind with the rent and landlord became impatient.\r\nMike: Straightened things out? \r\nJake: Thankfully, yes. "
+  },
+  {
+    "id": "13716510",
+    "summary": "Roger can do as many rows of tile in a day as he wants. He should make a level ledger, mark a center line and do the bottom row when the ledger row dries.",
+    "dialogue": "Roger: When you're laying tile how many rows can/should you do in a day?\r\nJim: Floor?\r\nRoger: walls\r\nDan: which mortar are you using?\r\nRoger: pre-mixed. seems like it dries very slowly\r\nJim: Why would it matter how long it takes to dry? Only takes a day to be able to grout with the pre mix. You can do as many rows as you like also.\r\nRoger: Right o. I just didn't know if they would shift around with more rows stacked on them?\r\nDan: <file_photo> you just make a level ledger (2nd row). Mark a center line on all walls then see where the last tile is going to be on sides and ceilings. You do the bottom row closest to the shower pan last after the ledger row dries.\r\nJim: Exactly, don't do the bottom row 1st, for some reason makes getting everything to line up pretty difficult. And push everything flat on the tile with a level so it looks good.\r\nRoger: Okay, good to know. I was just going to start at the bottom and work my way up\r\nDan: Might not work. Shower pans are usually not level so everything will end up off.\r\nJim: Do you have a digital level? I can give you mine if you need\r\nRoger: I have a digital one.\r\nJim: Ok cool.\r\nDan: Good luck. Let us know if you need anything."
+  },
+  {
+    "id": "13730038",
+    "summary": "Angelina and Jennifer will go to see \"First Man on the Moon\" on Friday around 7-8 PM at Cinema City Arkadia.",
+    "dialogue": "Angelina: wanna go to the cinema to see \"First Man on the Moon\"?\r\nJennifer: yes, sure! When?\r\nAngelina: I was thinking Friday, like 7-8 pm? Cinema City Arkadia?\r\nJennifer: thats ok for me.\r\nAngelina: great, see you! "
+  },
+  {
+    "id": "13865431",
+    "summary": "James will buy a set of forks at IKEA on John's request.",
+    "dialogue": "John: Could you buy a set of forks for me at IKEA?\nJames: LOL, set of forks?\nJohn: <file_photo> this\nPatt: no problem!\nJohn: thanks!"
+  },
+  {
+    "id": "13716842",
+    "summary": "Sue's mum got back home yesterday after a difficult journey and is still recovering. Sue will think of organising a party later on.",
+    "dialogue": "Jo: How's your mum, Sue?\r\nAnn: Is she gone now?\r\nSue: She got back home yesterday\r\nSue: The trains were delayed\r\nSue: She was furious\r\nSue: Still recovering\r\nJo: Oh :( \r\nAnn: So you're free then... ;)\r\nSue: Hurray\r\nAnn: A party??\r\nSue: I need to recover, too ;)\r\nSue: will think about a party later\r\nAnn: I take you by the word!"
+  },
+  {
+    "id": "13862894",
+    "summary": "Daniel moved in about two hours but has been cleaning for two days.",
+    "dialogue": "Marek: How was moving out? :c)\nDaniel: Pretty cool, we moved in about 2 hours, but we're cleaning 2nd day already:D\nMarek: :d\nDaniel: I wanna go back to work already xD\nMarek: Daniel, you ARE at work :d\nDaniel: omg, you're right :‑O \nDaniel: :D:D:D"
+  },
+  {
+    "id": "13811795",
+    "summary": "One of the meetings was cancelled and Frances is at Strawberry Café.",
+    "dialogue": "Frances: <file_picture>\r\nFrances: Look and guess! Where are we? :D\r\nHarold: OMG, is that Strawberry Café?\r\nFrances: Yes indeed!\r\nHarold: You said you wouldn't have time off?\r\nFrances: well one of the meetings got cancelled so we decided to go for a coffee :D\r\nHarold: lucky ducky! Have fun then…\r\nHarold: <file_gif>\r\nFrances: we surely will! Hugs!"
+  },
+  {
+    "id": "13828088",
+    "summary": "Frank saw Rick leaving the office. Rick had to deal with private matters. He will work during lunch break today. ",
+    "dialogue": "Frank: Just saw you leaving office?\r\nRick: Yea. Had to leave. Private stuff.\r\nFrank: Fine. Just make sure you're working during lunch break today.\r\nRick: No problem. Will do."
+  },
+  {
+    "id": "13716582",
+    "summary": "Joe, Tim and Jack are watching 'The Millionaire'.",
+    "dialogue": "Joe: R U watching 'The Millionaire'?\r\nTim: Sure!\r\nJack: Me too!\r\nJoe: Oooops. the commercial block is finishing.\r\nJoe: Talk to you later!"
+  },
+  {
+    "id": "13730883",
+    "summary": "Pat and Lucy will meet at 5.25 for the bus. Laura likes Pat's outfit and will show hers later on. ",
+    "dialogue": "Laura: what times the bus?\r\nPat: 5.25\r\nLaura: OK. u know what u wearing?\r\nPat: w8. ill take a photo\r\nLaura: ok, back in a minute\r\nPat: ce moi <file_photo>\r\nLaura: wow girl, sexy as hell\r\nPat: show me yourself\r\nLaura: no way\r\nPat: come on. this new blue dress?\r\nLaura: you'll see when we meet lol\r\nPat: OK. 5.25 then\r\nLucy: see you"
+  },
+  {
+    "id": "13681895",
+    "summary": "There was an emergency at school today. Three engines and ambulance came, but it was a drill.",
+    "dialogue": "Peter: Did you hear what happened at school today?\r\nJack: No?\r\nPeter: There’s been kind of an emergency, gas leak or something.\r\nJack: Oh, I hope it’s nothing serious. Did they called fire units?\r\nPeter: Yep, three engines and ambulance. It turned out to be a drill.\r\nJack: It’s better this way than the other. "
+  },
+  {
+    "id": "13828813",
+    "summary": "Nancy talked to her best friends about the hen party. She will go with Claire on a city break. They are meeting on Sunday at brunch to discuss it.",
+    "dialogue": "Nancy: Claire!\r\nClaire: hm?\r\nNancy: I've talked to my best friends about the hen party!\r\nClaire: oh!! aaaand?\r\nNancy: they thing the city break with just you is a great idea!\r\nClaire: Weeeeeell, we'll have to talk about it\r\nClaire: cause...\r\nClaire: if you want to do it just the two of us JUST BECAUSE you're afraid of satisfying everyone and not being able to do that - DON'T WORRY\r\nClaire: It's on me. There will be no dissatisfied girls. \r\nClaire: I'll make them leave at once.\r\nClaire: The horrible maid of honor, lol\r\nNancy: <3 awww, you're the best\r\nNancy: but I think that's really what I want\r\nNancy: we can talk about it though.\r\nClaire: OK! When? :D\r\nNancy: are you free this weekend?\r\nClaire: I can do Sunday, you?\r\nNancy: me too, brunch?\r\nClaire: perfect!"
+  },
+  {
+    "id": "13716380",
+    "summary": "Leroy should change the settings via \"Language and Settings\" or \"Access with Voice Match\" if he wants to use voice recognition on his Pixel 2 when it is blocked.",
+    "dialogue": "Leroy: Guys, do you ever use voice recognition on android?\r\nMalcolm: I do, what do you need help with?\r\nAnn: sorry, Siri all the way\r\nMalcolm: I never had much luck with Siri, would end up with random results \r\nAnn: I love mine! so convenient too when I have my hands full\r\nLeroy: I got a new phone and I thought you could talk to it when it's not unblocked but I can't seem to get it to work? any ideas?\r\nMalcolm: did you try messing with the settings? which phone do you have?\r\nLeroy: Pixel 2\r\nMalcolm: go to \"Language and Settings\" and check there or try finding the \"Access with Voice Match\" field and make sure it's on\r\nLeroy: THANK YOU!!! gonna try it out now"
+  },
+  {
+    "id": "13728119",
+    "summary": "Leo and Harper will have Grinch any Mary Poppins remake marathon. Harper will bring the popcorn.",
+    "dialogue": "Harper: Did we really need another Grinch film? \r\nHarper: |‑O\r\nLeo: Or a Mary Poppins remake? \r\nHarper: Oh, barf!\r\nHarper: Hated the first one!\r\nLeo: Never saw the first one!\r\nHarper: Had to watch with some kids I babysit. Bo-ring!\r\nLeo: Ah, oh, got it.\r\nHarper: Anyway, original Grinch is the GOAT!\r\nLeo: Nah. Jim Carrey one!\r\nHarper: You think?\r\nLeo: Grinch movie marathon!\r\nHarper: Is it a marathon with only two?\r\nLeo: We could watch them both twice! LOL!\r\nHarper: LOL! Deal. I'll bring the popcorn.\r\nLeo: You're on!"
+  },
+  {
+    "id": "13717253",
+    "summary": "James wants to watch a good horror movie. Nick and Ridley recommended watching Rec.",
+    "dialogue": "James: good horror to watch?\r\nKit: Japanese, US, Spain?\r\nJames: Spanish could be cool. any good?\r\nNick: I like Rec. not new thou. Seen it?\r\nJames: no not yet. Really good?\r\nRidley: I liked it too. Its more psycho than gore tho so depends what you into really\r\nJames: psychological are cool so yeah, I'll watch that\r\nNick: but makes sure it’s the first one not 2 or 0 or anything, they were realy shit\r\nRidley: amen\r\nJames: ok thx"
+  },
+  {
+    "id": "13818724",
+    "summary": "Eleonor, Tasha and Betty agree to meet up in the French place next Sunday. Patricia can't come as the meeting collides with her mother-in-law's birthday.",
+    "dialogue": "Eleonor: ok gals where do we meet up next Sunday?\r\nPatricia: I'm out, my mother in law has bday :C\r\nTasha: oh fuck so you'll spend Sunday with Cercei then\r\nBetty: I want to meet up next to Palladium cinema\r\nEleonor: ok so we'll meet up (minus Pat) at Jeff's bar\r\nTasha: are u serious? bar? do you want to seduce a bald 40 yr old divorcee?\r\nPatricia: lol\r\nPatricia: looks I'll be missing out a lot\r\nBetty: isn't Gloria a bald 40 yr old divorcee too? \r\nEleonor: hahahaha\r\nPatricia: LOL\r\nTasha: <file_gif>\r\nBetty: let's meet up in that French place, it's not cheap but c'mon it's SO worth it\r\nTasha: agreed\r\nEleonor: ok\r\nPatricia: if she dies before Sunday I'll come too\r\nEleonor: lol"
+  },
+  {
+    "id": "13611793",
+    "summary": "Richard and Elisabeth are worried by the current rise of nationalist movements.They draw a parallel between the current situation and the 1930s. They ponder on the need for an international movement that would unify people of different nationalities. Otherwise - they fear - there will be war.",
+    "dialogue": "Elisabeth: This is scary. Bolsonaro won in Brazil!\r\nRichard: I know, unbelievable. \r\nElisabeth: What is going on with this world?\r\nRichard: Apparently, we're going mad. Almost everybody, almost everywhere.\r\nElisabeth: Just like in the 1930s.\r\nRichard: I didn't want to say that, but I'm afraid you're right.\r\nElisabeth: Trump, Putin, Orban, Kaczynski, Erdogan... Ugly nationalists are in charge again.\r\nRichard: White, rich men...\r\nElisabeth: But who and why votes for them.\r\nRichard: You're not the only one asking now.\r\nElisabeth: Maybe we should do something. Join a party, start a movement? We should not just sit and watch the world collapsing.\r\nRichard: We shouldn't. But I think we need an international movement. Something that would exist and function transnationally, at least in Europe.\r\nElisabeth: That would be beautiful. Something that would not preach nation but humanity and brotherhood.\r\nRichard: And make all people read \"Imagined community\" by Anderson. We have to deconstruct the nation and move beyond it. And most of all, invest in education. Otherwise there will be a new war.\r\nElisabeth: We're heading there already! \r\nRichard: oh yes, inevitably :("
+  },
+  {
+    "id": "13809967",
+    "summary": "At a party, he made a hole in Luke's wall and vomited inside. Someone cooked Luke's expensive sea fish. ",
+    "dialogue": "Chris: W8! There's more!\r\nJune: Feed it to me! Rly curious now!\r\nChris: At some point, we smashed into a wall downstairs and made a hole in it.\r\nJune: Jeez!\r\nChris: W8! There's more!\r\nJune: Do I want to know?\r\nChris: He was so wasted that he puked down between the drywall!\r\nJune: WTF?!\r\nChris: So funny! And he remained with his head in the wall for like 2 hrs!\r\nJune: Why didn't anybody help him?\r\nChris: Y would they? :)\r\nJune: He could've choked to death!\r\nChris: Nah, afaik he moaned from to time.\r\nJune: Please tell me that's the most hardcore thing that happened?\r\nChris: Oh, no! This party will be legendary!\r\nJune: What else?\r\nChris: Well, then there was this someone who started cooking.\r\nJune: Nothing out of the ordinary.\r\nChris: W8 for it! It turns out that they cooked one of Luke's fish!\r\nJune: WTF?! These really expensive sea fish?\r\nChris: Idk which one. It was rather big.\r\nJune: Not Nemo!\r\nChris: Lol. That's what the guy was shouting! That's Nemo all over again.\r\nJune: I rly liked that fish! :(\r\nChris: I can imagine what Luke will be feeling when he sobers up.\r\nJune: Poor Luke. I'll give him a call l8r. Did u know that he went 2000 kms just to buy that fish? It was in a way unique!\r\nChris: In what way?\r\nJune: Idk. He tried explaining it to me, but I forgot.\r\nChris: Shame on u!\r\nJune: Yeah, I know."
+  },
+  {
+    "id": "13611747",
+    "summary": "Nick and Angela discuss what to buy Pete for his birthday. Angela wants to join a money collection of Sarah to get something bigger. Nicks wants to be posted.",
+    "dialogue": "Nick: What have you bought Pete for his b-day?\r\nAngela: Nothing, Sarah said we might all pitch in for something bigger.\r\nNick: That would be great, keep me posted if you know more, OK?\r\nAngela: Sure thing."
+  },
+  {
+    "id": "13728152",
+    "summary": "Mat hasn't his presentation with him.",
+    "dialogue": "Mat: he doesn't answer. Shall i go?\r\nChris: yes give a try\r\nMat: ok but i'll have to wait 20 minutes...\r\nChris: doesn't matter. it would be done. Work on your presentation\r\nMat: i don't have it with me... bad  luck"
+  },
+  {
+    "id": "13863151",
+    "summary": "Paul didn't convince Josh to go bungee jumping or skydiving with him next time.",
+    "dialogue": "Josh: You're a nutter!!!\nJosh: I could never do things like that\nPaul: Wouldn't you ever do the bungee jumping or skydiving? C'mon that's not so scary :)\nJosh: hahahah\nJosh: Nope, I wouldn't do that :)\nPaul: The next time you're coming with me!\nJosh: No way, mate"
+  },
+  {
+    "id": "13728303",
+    "summary": "Lea and Jenny are going to eat dinner together on Saturday at 8pm with some other people. Lea will bring a dessert.",
+    "dialogue": "Jenny: Hi Lea, better than later but are you available on saturday night for a diner? Schuss\r\nLea: yep👍, we'll bring wine.\r\nJenny: it's safer 😂\r\nLea:  bad luck we've already open the bottle. We'll take bubbles. Do you also want a dessert or something for the aperitif?\r\nJenny: ooohhh a dessert, yes!! but we are 6 or 8!!!\r\nLea: who are the others?\r\nJenny: the Meyer and maybe the Bright.\r\nLea: don't know them... great , new friends to come\r\nJenny: They're very funny\r\nLea: so 6 or 8?\r\nJenny: 8 \r\nLea: ok see you"
+  },
+  {
+    "id": "13829709",
+    "summary": "Greg is now wearing a cast. ",
+    "dialogue": "Jimmy: How are you?\r\nGreg: I'm wearing a cast :D\r\nJimmy: seriously? fuuck\r\nJimmy: do they even let you in when you're that drunk?\r\nGreg: they do and they hydrate you so you're not hungover the next day :D\r\nJimmy: you fucker\r\nGreg: :D:D:D"
+  },
+  {
+    "id": "13730907",
+    "summary": "Jessica and Jennifer are going to a party together.",
+    "dialogue": "Jennifer: Are you ready for the party?\r\nJessica: Oh yes!!\r\nJennifer: I will be fun! :D\r\nJessica: I love the DJ\r\nJessica: If it was just for him I would go\r\nJennifer: I really can’t wait\r\nJennifer: It will be the party of the year"
+  },
+  {
+    "id": "13829573",
+    "summary": "Loreen lost her Internet connection. Melissa and Peter have booked a holiday apartment on Lake Constance for New Year's Eve. Loreen might spend 4 weeks in Cuba. She won't rent a car. Loreen will go down for breakfast soon.",
+    "dialogue": "Loreen: Sorry, dear Melissa, that I so abruptly disappeared from our chat yesterday. All of a sudden the connection was gone, which was as they explained to me due to a thunderstorm in the vicinity. Well, we heard it but never thought it could kill internet connection. Apparently in Mexico it can!\r\nLoreen: When I look at your photos now, I notice how well wrapped up you are. Icy wind on Belchen! Gives me shivers. But the views are stunning.\r\nMelissa: I guessed so much. No need to apologise, Loreen.\r\nMelissa: Any plans for a New Year's eve party?\r\nMelissa: We have already booked the same holiday apartment on Lake Constance we stayed in before. Peter is quite sentimental about it.\r\nLoreen: No, we do not really care about it.\r\nLoreen: A splendid idea. I remember you both liked it very much. How many times have you been in this flat yet?\r\nMelissa: This time it will be our third. Where will you be?\r\nLoreen: In Cuba, I think. But it's not sure yet where exactly. We'll have to do our bookings soon, as we'll probably have no internet there.\r\nMelissa: That's bad! How many weeks in Cuba?\r\nLoreen: 4 Long, eh?\r\nMelissa: Not when you're travelling around. Are you going to rent a car again?\r\nLoreen: No, not in Cuba. Too much hustle. They are said to have cheap and good public transport. Car rentals have rather prohibitive prices.\r\nMelissa: Oh is that so? I thought everything is cheap there.\r\nLoreen: Dunno yet. We'll see. What's the time your end?\r\nMelissa: 2:18 pm It must be early morning in Mexico now.\r\nLoreen: 8:12. We'll soon be going down for breakfast. Have a nice afternoon Melissa!\r\nMelissa: And you two a great day!"
+  },
+  {
+    "id": "13594120-1",
+    "summary": "Dorothy tells Lily that Ron messaged her after a previous embarrassing message. They make fun of Ron being drunk.",
+    "dialogue": "Dorothy: Hi! You know what? Ron messaged me again\r\nLily: Hi! Oh God Almighty\r\nDorothy: He was really embarrassed\r\nLily: Well, that's understandable\r\nDorothy: Oh well, that Blake-ish poem was fun actually\r\nLily: Did you reply with a poem?\r\nDorothy: No, but I may do that, I feel more Shakespearian though: shall I compare thee to a drunken ass?\r\nLily: Hahah, but he's not a bad person after all, is he?\r\nDorothy: He is kind of nice, at least when he's sober\r\nLily: Doctor Ronnie and Mister Booze"
+  },
+  {
+    "id": "13815406",
+    "summary": "Rene and Kate will get Karl a gift. Rene will send Kate the money for it.",
+    "dialogue": "Rene: hey there :)\r\nRene: just wanted to check with you, are we buying Karl a gift?\r\nKate: hola!\r\nKate: sure we do\r\nKate: didn't you see my message?\r\nRene: oops, I've missed it\r\nKate: right :D\r\nRene: seriously!\r\nKate: okay :) anyway, just send me the money and we're all set\r\nRene: will do"
+  },
+  {
+    "id": "13865064",
+    "summary": "Amy unknowingly smuggled cocaine in Latin America. She didn't get caught. ",
+    "dialogue": "Mandy: Did you know that Amy smuggled cocaine in Latin America?\nSarah: OMG!! 🙀\nSvetlana: She's crazy. \nSvetlana: Why would she do that?\nMandy: She told me on Friday \nMandy: She said she didn't know.\nMandy: A guy she was with put it in her luggage \nSarah: What a bastard!!!\nSarah: I hope she didn't get in trouble.\nMandy: Luckily nobody realised. \nSarah: I would kill the guy \nSvetlana: That's horrible\nSvetlana: How can you do it to anyone? "
+  },
+  {
+    "id": "13862252",
+    "summary": "Ben and Rafal are meeting in 2.5 hours at the subway exit 9.",
+    "dialogue": "Ben: Rafal, how are you?\nRafal: Awesome, getting ready for the evening:D\nBen: In 2h and 30min, we can meet up:)\nBen: Cool\nRafal: Yee\nBen: Which subway exit is comfortable for you?\nRafal: All are fine, I haven't been there yet. Do you have any preferences?\nBen: I heaard that from exit 9 there are lots of restaurants, look at the map\nBen: <file_picture>\nBen: Which line are you supposed to take?\nRafal: I take blue line, so exit 9 will be perfect\nBen: good then I will be there\nRafal: Perfect, see you soon! \nBen: Ah and if I arrive there I will contact your wife\nBen: If you have something trouble\nBen: can you send me text message 0123456789\nBen: I don't have any data left, hahhah"
+  },
+  {
+    "id": "13681726",
+    "summary": "Martin and his wife are going to Oslo for Christmas. Tony is visiting parents, and can't go.",
+    "dialogue": "Martin: hi\r\nTony: hello\r\nMartin: i was wondering if you'd like to go with us to Oslo..\r\nTony: with us?\r\nMartin: with me and my wife\r\nMartin: of course you and your wife\r\nTony: hmm\r\nTony: when do you go there?\r\nMartin: for Christmas\r\nTony: oh, im sorry, we have to visit our parents\r\nTony: but thanks for offer\r\nMartin: no problem\r\nMartin: if you change your mind just let me know"
+  },
+  {
+    "id": "13730813",
+    "summary": "John is coming to Jim's party with Marina. He forgot to tell him.",
+    "dialogue": "Jim: can you please confirm if you are coming to the party!!!\r\nJohn: i am so sorry i completely forgot to tell you.. \r\nJohn: me and marina would be there\r\nJim: thats great looking forward to see you guyss"
+  },
+  {
+    "id": "13862751",
+    "summary": "Tereza is waiting with Tony at the main car park. Lorry will be 10 minutes late.",
+    "dialogue": "Lorry: I'm running 10 min late..\nTereza: Ok dear, we are waiting in the main car park\nLorry: Is Tony coming along?\nTereza: Yes he just arrived\nLorry: Ok\nLorry: See you soon!"
+  },
+  {
+    "id": "13681805",
+    "summary": "Ruby tossed away the small, red pan, although Sean was still using it.",
+    "dialogue": "Sean: Ruby, do you know where is the little, red pan?\r\nRuby: oh, I threw it away, was completely burnt, not even red any more but black.\r\nSean: Not really, I kept using it. Was not the best, but definitely usable.\r\nRuby: Sorry, but I just found it disgusting.\r\nSean: Please, don't do this kind of things without talking to me.\r\nRuby: Sorry again! "
+  },
+  {
+    "id": "13827893",
+    "summary": "Kate will meet with Steven in 15 minutes.",
+    "dialogue": "Kate: I'm here <file_other>\r\nKate: there was no place in Red Lion\r\nSteven: hey! but it's quite far away\r\nKate: c'mon it's just 10 min by bike!\r\nSteven: yes, but I'm not by bike\r\nKate: car?\r\nSteven: nope\r\nSteven: by foot :P :P \r\nSteven: anyway google maps says 15 min and I'm there:D\r\nKate: ok, w8in ^^"
+  },
+  {
+    "id": "13862551-1",
+    "summary": "It is July 7th and Cindy is looking forward to Monsta-X's new album. Maria knows that this date has been chosen because of Hwi's birthday. He is Cindy's favourite. Maria has left a message on the band's website. Their new song is already on M-net chart.",
+    "dialogue": "Cindy: Monsta-X is coming back with their new album!😍\nCindy: What date is it? I have been waiting for their new album so badly!!\nMaria: 7th of July********\nMaria: They set the date to come back because it is Hwi's birthday!!!!!!!\nCindy: I like Hwi most! So nice!😍😍😍😍😍😍😍😍\nCindy: AND WOW! I found just now their new song is already on M-net chart!\nMaria: You can go to their homepage and leave some messages for them\nMaria: I already did!😁😁😁😁😁😁\nMaria: And don't forget you should download their new song as well!!\nCindy: Of course!😊😊😊"
+  },
+  {
+    "id": "13682129",
+    "summary": "Lauren hates autumn but Diego doesn't complain.",
+    "dialogue": "Lauren: Uhh, I hate autumn...\r\nDiego: Oh? I don't really mind it. Summer is too hot for me, so autumn is pretty much perfect.\r\nLauren: Are you serious? With the weather we have today?\r\nDiego: I mean, it could be worse...\r\nLauren: Worse? I'm soaked through and through, it's a complete disaster.\r\nDiego: Did you forget your umbrella?\r\nLauren: No, but there's no way I could actually use it when it's this windy. My hair is a mess too. Ugh...\r\nDiego: What's the big deal? It'll dry in a while, won't it?\r\nLauren: That's not it, it's all frizzy and disgusting... and I washed it just this morning, I'm so upset\r\nDiego: I guess I'm glad I don't have such problems\r\nLauren: Sheesh. Thanks, Diego, I can always count on you to cheer me up. Why did I even write to you??"
+  },
+  {
+    "id": "13681488",
+    "summary": "Dora asks Dad if everyting is ok and it is.",
+    "dialogue": "Dora: Good evening dad! How are you getting on?\r\nDaddy: Very well indeed. We are just about to leave.\r\nDora: Splendid. Just wanted to make sure everything's alright.\r\nDaddy: No worries. It is."
+  },
+  {
+    "id": "13829490",
+    "summary": "Liz and Jerry will go to Madrid at the end of March. They will spend two nights in Berlin first. ",
+    "dialogue": "Liz: we're going to Madrid!\r\nKatherine: say whaaaat gurl\r\nLiz: yeah, me and Jerry\r\nLiz: first to Berlin\r\nLiz: we're there for like two nights\r\nLiz: and then we fly to Spain! <file_gif>\r\nKatherine: niceeee\r\nLiz: end of March, beginning of April\r\nLiz: im so exciteeeeed\r\nKatherine: happy for u :)"
+  },
+  {
+    "id": "13680501",
+    "summary": "Cohen has just woken up.",
+    "dialogue": "Kelly: Hey :]\r\nCohen: What's wrong ?\r\nKelly: What? Why what's wrong? Is it wrong i wrote to you?\r\nCohen: Looked like a frown. Sorry I just woke up\r\nKelly: Ok. How are you?\r\nCohen: I'm good thanks and yourself ?\r\nKelly: So so. Could be muuuuuch better"
+  },
+  {
+    "id": "13829461",
+    "summary": "Kate can't watch the TV, because it stopped working. Jared will be back in a minute to help her.",
+    "dialogue": "Kate: honeeeeey\r\nKate: the TV isn't working\r\nKate: what do I do?\r\nKate: <file_gif>\r\nJared: Have you tried turning it on?\r\nKate: .... well thanks, honey\r\nJared: Glad I could help.\r\nKate: And you know, if your key suddenly stops working\r\nKate: just go somewhere else.\r\nJared: ooooh, c'mon, admit it, it was a little funny?\r\nKate: not at all!!\r\nJared: OK, I'll be home in a minute, I'll have a look\r\nKate: better go fast, the locksmith is already here\r\nKate: <file_gif>"
+  },
+  {
+    "id": "13828209",
+    "summary": "Jack likes RDR2 mainly for the narration, acting and the graphics. Jack used to play with cowboy-themed lego sets when he was a child.",
+    "dialogue": "Mike: hey have you played RDR2 already?\r\nJack: of course\r\nJack: I think I'm halfway through\r\nMike: ooooh\r\nMike: and whaddya think?\r\nMike: coz I've just started\r\nJack: what can I say, it's freaking great\r\nJack: the storytelling, the acting, the graphics, immersiveness (is that a word? hehe)\r\nJack: you know, when I was a kid, I used to play with cowboy-themed lego sets\r\nJack: so it's like a dream coming true for me :D\r\nMike: haha\r\nMike: totally"
+  },
+  {
+    "id": "13864466",
+    "summary": "Adam has a stomach flu. ",
+    "dialogue": "Julia: Adam, are you coming today?\nJulia: Adam, you are already an hour late, let me know asap\nKate: He texted me before that he isn't feeling very well\nJulia: Thanks\nAdam: I had an appointment, sorry, but I have a stomach flu"
+  },
+  {
+    "id": "13862429",
+    "summary": "Josh is coming to London. He is going to stay at a hotel. He is going to meet Mary at Gary's pub on the weekend. Mary is going to invite John and Lucy as well.",
+    "dialogue": "Mary: That’s great news! I’m so happy that you’re coming home! Would you like to say over at your parents’ house?\nJosh: Don’t no yet. Probably I’ll stay at the hotel close to the city center. My parents live an hour from the city…\nMary: Sure, we should meet when you come. \nJosh: Of course! \nMary: Call me when you’re in London. I don’t have any plans for the weekend\nJosh: Do you want to meet at Gary’s?\nMary: Yes, that’s our favorite pub 😊\nMary: Maybe John and Lucy can join us\nJosh: Perfect 😊\nMary: I’ll call them today\nJosh: <file_gif>\nMary: <file_gif>\nJosh: 😊"
+  },
+  {
+    "id": "13819578",
+    "summary": "Grayson is going to shave his head.",
+    "dialogue": "Grayson: What do you think, should I shave my head?\r\nGregory: what?\r\nHalbert: you've got a great hair though...\r\nGrayson: I'm tired of washing it and then drying...... it takes a lot of time....\r\nGregory: If you really want, why not\r\nGrayson: I will do that, hope you will recognize me ;p"
+  },
+  {
+    "id": "13829403",
+    "summary": "Cisco has sent Ruth a clip with James Veitch.",
+    "dialogue": "Cisco: So here's a clip that should put a smile on your face!! :D\r\nCisco: <file_video>\r\nRuth: oh my gosh, it's James Veitch - i love that guy!!\r\nRuth: did you see the TED talk where he talks about spamming\r\nCisco: OMG yes! He is such a legend!!!\r\nRuth: i seriously want to meet him one day \r\nRuth: \"James, we need to talk about the ducks\" \"what ducks?\" \"the bathroom ducks\" \"what bathroom ducks?\" \"the tiny rubber ducks in the bathroom\" \"Oh, those bathroom ducks!\" XD\r\nCisco: i love that guy :') and that titanic scene tho!\r\nRuth: hahaha"
+  }
+
+]

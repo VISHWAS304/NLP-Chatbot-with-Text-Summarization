@@ -1,0 +1,94 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e0e0e0; /* Lighter gray background */
+    color: #333;
+}
+header {
+    background-color: #4CAF50; /* Green header */
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-content {
+    flex-grow: 1;
+    text-align: left;
+    padding-left: 20px;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.item, .restaurant-section {
+    width: calc(20% - 20px);
+    background-color: #ffffff; /* White background for items */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    transition: all 0.3s ease;
+    border-radius: 8px;
+    overflow: hidden;
+}
+.menu-container {
+    width: calc(40% - 20px);
+}
+.item:hover, .restaurant-section:hover {
+    background-color: #f1f1f1;
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+.item img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    transition: transform 0.3s ease;
+}
+.item:hover img {
+    transform: scale(1.05);
+}
+.restaurant-section {
+    cursor: pointer;
+    background-color: #BDBDBD; /* Dark gray for restaurant section */
+}
+.chatbot-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 9999;
+}
+#toggle-chatbot {
+    background-color: #ff9900;
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.3s ease;
+}
+#toggle-chatbot:hover {
+    background-color: #ffa07a;
+}
+#minimized-chatbot-image {
+    display: none;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: opacity 0.3s ease;
+}
+#minimized-chatbot-image:hover {
+    opacity: 0.8;
+}

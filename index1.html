@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GETFOOD</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to right,  #FFC300,#ee3005,#FFC300); /* Red and Yellow gradient background */
+            color: #333;
+            overflow-x: hidden; /* Prevent horizontal scroll */
+        }
+        header {
+            background-color: rgba(0, 0, 0, 0.8); /* Semi-transparent dark background */
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            position: relative;
+            z-index: 1;
+        }
+        .header-content {
+            flex-grow: 1;
+            text-align: left;
+            padding-left: 20px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            position: relative;
+            z-index: 1;
+        }
+        .item, .restaurant-section {
+            width: calc(20% - 20px);
+            background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background for items */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin-bottom: 20px;
+            transition: all 0.3s ease;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        .menu-container {
+            width: calc(40% - 20px);
+        }
+        .item:hover, .restaurant-section:hover {
+            background-color: rgba(255, 255, 255, 0.9); /* Lighten background on hover */
+            transform: translateY(-5px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+        }
+        .item img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-bottom: 10px;
+            transition: transform 0.3s ease;
+        }
+        .item:hover img {
+            transform: scale(1.05);
+        }
+        .restaurant-section {
+            cursor: pointer;
+            background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent dark background for restaurant section */
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+        .chatbot-container {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            z-index: 9999;
+        }
+        #toggle-chatbot {
+            background-color: #FF5733; /* Red button color */
+            color: #fff;
+            border: none;
+            border-radius: 8px; /* Rounded corners */
+            width: 200px;
+            height: 50px;
+            font-size: 18px;
+            cursor: pointer;
+            outline: none;
+            transition: background-color 0.3s ease;
+        }
+        #toggle-chatbot:hover {
+            background-color: #FFC300; /* Yellow button color on hover */
+        }
+        #minimized-chatbot-image {
+            display: none;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            cursor: pointer;
+            transition: opacity 0.3s ease;
+        }
+        #minimized-chatbot-image:hover {
+            opacity: 0.8;
+        }
+        #chatbot-frame {
+            display: none;
+            position: fixed;
+            bottom: 80px; /* Adjusted position to prevent overlap with the button */
+            right: 20px;
+            width: 350px;
+            height: 430px;
+            border: none;
+            z-index: 9998;
+        }
+        .order-chat-button {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            z-index: 9999;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1 style="margin: 0;">GETFOOD</h1>
+            <p>Delicious meals at your fingertips!</p>
+        </div>
+        <img src="images/logo.jpg" alt="GETFOOD Logo" style="width: 200px; height: auto;">
+    </header>
+    <div class="container">
+        <div class="item">
+            <img src="images/banner.jpg" alt="Banner">
+            <h2>Home</h2>
+            <p>Welcome to GETFOOD</p>
+            <p>Got questions? Contact us at +91791234567</p>
+        </div>
+
+        <div class="item menu-container">
+            <img src="images/menu1.jpg" alt="Menu item 1">
+            <img src="images/menu2.jpg" alt="Menu item 2">
+            <img src="images/menu3.jpg" alt="Menu item 3">
+            <h2>Menu</h2>
+            <p>Check out our delicious menu</p>
+        </div>
+
+        <div class="item">
+            <img src="images/reviews.jpg" alt="Reviews">
+            <h2>Reviews</h2>
+            <p>See what our customers have to say</p>
+        </div>
+
+        <div class="item">
+            <img src="images/location.jpg" alt="Location" style="width: 50px; height: 20px;">
+            <h2>Location</h2>
+            <p>Yeshiva university, 215 Lexington avenue, New York</p>
+        </div>
+
+        <div class="item">
+            <img src="images/specials.jpg" alt="Specials">
+            <h2>Specials</h2>
+            <p>Discover our daily specials</p>
+        </div>
+
+        <div class="restaurant-section" onclick="alert('User interactions and chat summaries will be displayed here!');">
+            <h2>Restaurant Section</h2>
+            <p>View user interactions and chat details.</p>
+        </div>
+    </div>
+    <div class="order-chat-button">
+        <button id="toggle-chatbot">Order food by chat</button>
+    </div>
+
+    <iframe id="chatbot-frame" class="chat-bot" width="350" height="430" allow="microphone;" src="https://console.dialogflow.com/api-client/demo/embedded/7f5caf6b-980f-4a35-8c59-a1b68d6ed27a"></iframe>
+
+    <script>
+        const toggleChatbotButton = document.getElementById('toggle-chatbot');
+        const chatbotFrame = document.getElementById('chatbot-frame');
+
+        let chatbotVisible = false;
+
+        toggleChatbotButton.addEventListener('click', () => {
+            if (!chatbotVisible) {
+                chatbotFrame.style.display = 'block';
+                toggleChatbotButton.textContent = 'Hide Chat';
+            } else {
+                chatbotFrame.style.display = 'none';
+                toggleChatbotButton.textContent = 'Order food by chat';
+            }
+            chatbotVisible = !chatbotVisible;
+        });
+    </script>
+</body>
+</html>
