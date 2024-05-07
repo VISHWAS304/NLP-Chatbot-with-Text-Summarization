@@ -10,7 +10,7 @@
             font-family: 'Roboto', sans-serif;
             margin: 0;
             padding: 0;
-            background: linear-gradient(to right,  #FFC300,#ee3005,#FFC300); /* Red and Yellow gradient background */
+            background: linear-gradient(to right,  #ee0505,#f6a205,#f6f667); /* Red and Yellow gradient background */
             color: #333;
             overflow-x: hidden; /* Prevent horizontal scroll */
         }
@@ -41,8 +41,43 @@
             position: relative;
             z-index: 1;
         }
+        .item {
+        font-family: 'Roboto', sans-serif;
+        background-color: rgba(255, 255, 255, 0.9);
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        margin-bottom: 20px;
+        }
+        .item h2 {
+            color: #ee3005; /* Matching the gradient theme */
+            margin-top: 0;
+        }
+        .item p {
+            font-size: 16px;
+            line-height: 1.5;
+        }
+        .contact-info p {
+            margin: 10px 0;
+            font-weight: 500;
+        }
+        .contact-info ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .contact-info li {
+            margin-bottom: 8px;
+            font-size: 14px;
+        }
+        .contact-info a {
+            color: #FF5733; /* A bright contrast color for better visibility */
+            text-decoration: none;
+        }
+        .contact-info a:hover {
+            text-decoration: underline;
+        }
         .item, .restaurant-section {
-            width: calc(20% - 20px);
+            width: calc(17% - 17px);
             background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background for items */
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             padding: 20px;
@@ -70,11 +105,27 @@
             transform: scale(1.05);
         }
         .restaurant-section {
-            cursor: pointer;
-            background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent dark background for restaurant section */
-            color: #fff;
-            text-align: center;
-            padding: 20px;
+        width: 50%%; /* Adjust based on layout needs */
+        height: auto; /* Auto height for better responsiveness */
+        padding: 20px;
+        background-color: rgba(0, 0, 0, 0.6);
+        color: #fff;
+        text-align: center;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .restaurant-section:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+        }
+
+        .section-image {
+            max-width: 100px; /* Set max width for the image */
+            height: auto; /* Maintain aspect ratio */
+            margin-bottom: 10px;
+            border-radius: 4px; /* Optional: Adds rounded corners to the image */
         }
         .chatbot-container {
             position: fixed;
@@ -139,7 +190,17 @@
             <img src="images/banner.jpg" alt="Banner">
             <h2>Home</h2>
             <p>Welcome to GETFOOD</p>
-            <p>Got questions? Contact us at +91791234567</p>
+            <div class="contact-info">
+                <p><strong>Contact Us:</strong></p>
+                <ul>
+                    <li>Veerabhadra Rao Marellapudi - 
+                        <a href="tel:+15512608467"> +1 551-260-8467</a></li>
+                    <li>Vishwas Bhushan Basuru - 
+                        <a href="tel:+15519989619"> +1 551-998-9619</a></li>
+                    <li>Kalyan Roy - 
+                        <a href="tel:+919121764140"> +91 91217-64140</a></li>
+                </ul>
+            </div>
         </div>
 
         <div class="item menu-container">
@@ -149,7 +210,16 @@
             <h2>Menu</h2>
             <p>Check out our delicious menu</p>
         </div>
-
+        <div class="restaurant-section" onclick="redirectToUserList()" style="cursor: pointer;">
+            <img src="images/mongo.png" alt="MongoDB Logo" class="section-image">
+            <h2>Restaurant Section</h2>
+            <p>View user interactions and chat details.</p>
+        </div>
+        <script>
+            function redirectToUserList() {
+                window.location.href = 'user_list.html'; // Redirects to the user list page
+            }
+        </script>
         <div class="item">
             <img src="images/reviews.jpg" alt="Reviews">
             <h2>Reviews</h2>
@@ -168,10 +238,6 @@
             <p>Discover our daily specials</p>
         </div>
 
-        <div class="restaurant-section" onclick="alert('User interactions and chat summaries will be displayed here!');">
-            <h2>Restaurant Section</h2>
-            <p>View user interactions and chat details.</p>
-        </div>
     </div>
     <div class="order-chat-button">
         <button id="toggle-chatbot">Order food by chat</button>
