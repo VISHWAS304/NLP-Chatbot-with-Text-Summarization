@@ -122,9 +122,6 @@ Fine-tuning the Pegasus model significantly improved its ability to summarize ch
   <figcaption>Sentiment Review Word Cloud (Positive/Negative/Neutral)</figcaption>
 </figure>
 
-## Demo:
-
-
 ## Technical Information:
 
 - **Programming Language**: Python.
@@ -134,15 +131,12 @@ Fine-tuning the Pegasus model significantly improved its ability to summarize ch
 - **Coding Environment**: VS Code.
 - **Database**: Mysql for restaurant data, MongoDB for Chat data.
 
-
 ## Benefits:
-
 - **Empowered Customers**: Chatbots can answer questions, generate reports, and offer personalized recommendations based on customer needs.
 - **Data-Driven Insights**: Summarized reports on customer interactions to identify product demand and common pain points.
 - **Enhanced Convenience**: Provides a faster and more user-friendly approach for everyone.
 
 ## Applications:
-
 - **Sales Projections**: Utilize a chatbot to assess sales projections for the upcoming quarter, compare them against the budget, and pinpoint areas for improvement.
 - **Summarized Reports**: Summarized reports reveal frequently asked questions, highlighting areas for product development or improved communication.
 - **Customer Sentiments**: Sentiment analysis combined with slow resolution times can indicate frustrated customers, prompting a focus on faster issue resolution.
